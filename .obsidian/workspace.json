@@ -259,8 +259,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "笔记复习序列"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -269,8 +269,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "笔记复习序列"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -295,12 +295,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "templater-obsidian:Templater": false,
       "cmdr:Bookmarks: Show bookmarks": false,
+      "periodic-notes:Open this week": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "callout-manager:Insert Callout": false,
-      "obsidian-spaced-repetition:复习卡片": false,
-      "obsidian-git:Open Git source control": false
+      "callout-manager:Insert Callout": false
     }
   },
   "active": "79b94446338a604f",
