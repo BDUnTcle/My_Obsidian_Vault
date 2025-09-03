@@ -135,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "优化",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "4ceca8134c659c36",
@@ -299,7 +300,6 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "callout-manager:Insert Callout": false,
       "obsidian-spaced-repetition:复习卡片": false,
-      "periodic-notes:Open this week": false,
       "obsidian-git:Open Git source control": false
     }
   },
