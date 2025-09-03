@@ -1,0 +1,6 @@
+{
+  "folder": "我的日记",
+  "template": "Obsidian模板/Templater/Templater-DailyNote",
+  "autorun": false,
+  "format": "YYYY-MM-DD日记"
+}

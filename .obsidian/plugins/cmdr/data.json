@@ -1,0 +1,111 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [
+    {
+      "id": "workspace:export-pdf",
+      "icon": "activity",
+      "name": "Export to PDF...",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [
+    {
+      "id": "periodic-notes:open-monthly-note",
+      "icon": "calendar",
+      "name": "Periodic Notes: Open monthly note",
+      "mode": "3b8a97f1faa23670"
+    },
+    {
+      "id": "bookmarks:open",
+      "icon": "lucide-bookmark",
+      "name": "Bookmarks: Show bookmarks",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [
+    {
+      "id": "workspaces:load",
+      "icon": "aperture",
+      "name": "Workspaces: Load workspace layout",
+      "mode": "any"
+    }
+  ],
+  "pageHeader": [
+    {
+      "id": "highlightr-plugin:Red",
+      "icon": "highlightr-pen-red",
+      "name": "Highlightr: Red",
+      "mode": "any"
+    },
+    {
+      "id": "highlightr-plugin:Pink",
+      "icon": "highlightr-pen-pink",
+      "name": "Highlightr: Pink",
+      "mode": "any"
+    },
+    {
+      "id": "highlightr-plugin:Green",
+      "icon": "highlightr-pen-green",
+      "name": "Highlightr: Green",
+      "mode": "any"
+    },
+    {
+      "id": "highlightr-plugin:Orange",
+      "icon": "highlightr-pen-orange",
+      "name": "Highlightr: Orange",
+      "mode": "any"
+    },
+    {
+      "id": "highlightr-plugin:Cyan",
+      "icon": "highlightr-pen-cyan",
+      "name": "Highlightr: Cyan",
+      "mode": "any"
+    },
+    {
+      "id": "highlightr-plugin:green2",
+      "icon": "highlightr-pen-green2",
+      "name": "Highlightr: green2",
+      "mode": "any"
+    },
+    {
+      "id": "pdf-plus:zoom-in",
+      "icon": "zoom-in",
+      "name": "PDF++: Zoom in",
+      "mode": "any"
+    },
+    {
+      "id": "pdf-plus:zoom-out",
+      "icon": "zoom-out",
+      "name": "PDF++: Zoom out",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Open quick switcher",
+      "Open today's daily note",
+      "Open command palette",
+      "Templater",
+      "Open graph view"
+    ]
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

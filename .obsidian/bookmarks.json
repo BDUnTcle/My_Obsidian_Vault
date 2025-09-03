@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1713459095568,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1713459082125,
+          "path": "College Program/Data Science/CS-146 Sec 05 - Data Structures and Algorithms.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1713459138876,
+          "path": "College Program/Data Science/CS-151 Sec 04 - Object-Oriented Design.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1713459151426,
+          "path": "College Program/Data Science/MATH-161A Sec 04 - Applied Probability and Statistics I.md"
+        }
+      ],
+      "title": "Ongoing Courses"
+    }
+  ]
+}

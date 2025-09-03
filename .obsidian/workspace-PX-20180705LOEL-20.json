@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "9ff17e9b1f863f49",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f638cc0d09b52b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80ee7410f835cce8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "签证面试注意事项和回答.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d27c201b878140e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b87d009ac3143b16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2101431abedb2de1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "202013e26145f02f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee2d599e0cbec731",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd39ca68e6c2bd66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e83861f752683a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 386
+  },
+  "right": {
+    "id": "fbe497a4bb9efe89",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eb730e8ac732dfd",
+        "type": "tabs",
+        "dimension": 79.81836528758829,
+        "children": [
+          {
+            "id": "b2d6d697c600f27a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "签证面试注意事项和回答.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3aa465f7a254c2a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "20b6275df624ca7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "签证面试注意事项和回答.md"
+              }
+            }
+          },
+          {
+            "id": "200fce7533a40f6d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6af940bb5e4e454",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "2dd4650aaddb4fb4",
+        "type": "tabs",
+        "dimension": 20.181634712411704,
+        "children": [
+          {
+            "id": "a0c4a0088fcda39e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "签证面试注意事项和回答.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 411,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "80ee7410f835cce8",
+  "lastOpenFiles": [
+    "永久笔记（permanent note）/我的PC常用软件和工具-PX-20180705LOEL.md",
+    "签证面试注意事项和回答-PX-20180705LOEL.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-05-24.md",
+    "永久笔记（permanent note）/Windows-OneDrive无法登陆问题解决方法.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-05-22.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-05-21.md",
+    "签证面试注意事项和回答.md",
+    "Study Plan.md",
+    "PS修订.md",
+    "语言学习（Language Learning）/TOEFL/Speaking/练习.md",
+    "语言学习（Language Learning）/TOEFL/Speaking/TOEFL Speaking 笔记.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-05-20.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-05-19.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-05-18.md",
+    "永久笔记（permanent note）/简历草稿-唐嘉豪.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-05-15.md",
+    "语言学习（Language Learning）/English Dairy/1st Month/19th day.md",
+    "语言学习（Language Learning）/TOEFL 课程29.md",
+    "语言学习（Language Learning）/TOEFL/TOEFL 课程29.md",
+    "语言学习（Language Learning）/TOEFL/TOEFL 课程30.md",
+    "语言学习（Language Learning）/TOEFL/TOEFL 课程31.md",
+    "语言学习（Language Learning）/英语听力/日常对话/2022-10-04-日常对话.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-05-14.md",
+    "语言学习（Language Learning）/English Dairy/1st Month/18th day.md",
+    "瞬时笔记（fleetting note）/ecvalidraw_template.excalidraw.md",
+    "语言学习（Language Learning）/TOEFL 课程 1.md",
+    "语言学习（Language Learning）/单词和表达归纳",
+    "语言学习（Language Learning）/短语表达",
+    "附件/20230513-143752.jpg",
+    "附件/20230513-143748.jpg",
+    "附件/20230513-143745.jpg",
+    "附件/20230513-143412.jpg",
+    "附件/20230513-125105.jpg",
+    "附件/20230513-125008.jpg",
+    "附件/Pasted image 20230416143540.png",
+    "附件/Pasted image 20230416143608.png",
+    "附件/Pasted Image 20230424210053_014.png",
+    "附件/Pasted image 20230509190403.png",
+    "附件/toefl-speaking-mock-test-with-8-sample-answers.mp4",
+    "附件/toefl-speaking-question-2-sample-questions-answers.mp4",
+    "语言学习（Language Learning）/TOEFL/Writing",
+    "语言学习（Language Learning）/TOEFL/Reading",
+    "语言学习（Language Learning）/TOEFL/Listening",
+    "语言学习（Language Learning）/TOEFL/Speaking",
+    "语言学习（Language Learning）/TOEFL",
+    "工作相关/MMS服务架构及代码设计介绍-V1.0.pdf"
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "9ff17e9b1f863f49",
+    "type": "split",
+    "children": [
+      {
+        "id": "30347fa55a321163",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa61ec4f9e476cd1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "瞬时笔记（fleetting note）/我的日记/2023-07-18.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d27c201b878140e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b87d009ac3143b16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2101431abedb2de1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "202013e26145f02f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee2d599e0cbec731",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e5757f102b6b40f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1ff5c295a0bf8a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 505,
+    "collapsed": true
+  },
+  "right": {
+    "id": "fbe497a4bb9efe89",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eb730e8ac732dfd",
+        "type": "tabs",
+        "dimension": 79.81836528758829,
+        "children": [
+          {
+            "id": "b2d6d697c600f27a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "瞬时笔记（fleetting note）/我的日记/2023-07-18.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3aa465f7a254c2a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "20b6275df624ca7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "瞬时笔记（fleetting note）/我的日记/2023-07-18.md"
+              }
+            }
+          },
+          {
+            "id": "200fce7533a40f6d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "918d3379c124b205",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "2dd4650aaddb4fb4",
+        "type": "tabs",
+        "dimension": 20.181634712411704,
+        "children": [
+          {
+            "id": "a0c4a0088fcda39e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "瞬时笔记（fleetting note）/我的日记/2023-07-18.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 410.8333435058594,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "templater-obsidian:Templater": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "aa61ec4f9e476cd1",
+  "lastOpenFiles": [
+    "瞬时笔记（fleetting note）/我的日记/2023-07-15.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-07-18.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-06-28.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-07-10.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-07-08.md",
+    "永久笔记（permanent note）/程序员专业知识学习/【Linux】minicom工具使用笔记.md",
+    "永久笔记（permanent note）/程序员专业知识学习/【Linux 系统】中Ext2文件系统的结构.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-07-07.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-07-03.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-07-01.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-06-30.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-06-27.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-06-26.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-06-24.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-06-19.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-06-17.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-06-15.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-06-14.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-06-12.md",
+    "未命名 1.md",
+    "未命名.md",
+    "语言学习（Language Learning）/TOEFL/Writing/练习.md",
+    "语言学习（Language Learning）/TOEFL/Writing/TOEFL Writing 笔记.md",
+    "1.md",
+    "未命名 2.md",
+    "语言学习（Language Learning）/TOEFL/TOEFL 课程32.md",
+    "附件/20230606-201414.jpg",
+    "附件/20230606-201410.jpg",
+    "附件/20230606-201406.jpg",
+    "附件/20230606-201403.jpg",
+    "附件/20230606-201359.jpg",
+    "附件/20230606-201334.jpg",
+    "工作相关/操控服务软件设计文档_V2.0.0.pdf",
+    "Pasted Image 20221012070909_721.png",
+    "Pasted Image 20221006115104_507.png"
+  ]
+}

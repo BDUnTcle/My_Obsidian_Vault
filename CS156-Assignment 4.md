@@ -1,0 +1,8 @@
+Q 1:
+The strategy of Breadth First Search is to search systematically explores the edges of G to discover every vertex that is reachable from start. It time and space complexity are $O(b^d)$ where b is the number of children for each vertex and d is the depth of the tree. The BFS is a complete search because b is finite, and it's optimal if we make each step in same cost.
+
+The strategy of Depth First Search is try to search explores edges out of the most recently discovered vertex v that still has unexplored edges leaving it and keep doing until all vertices that are reachable from the original source vertex. The time complexity is  $O(b^m)$, and the space complexity is  $O(bm)$  . DFS is not a complete and optimal search because we can't make sure weather the path is finite or not.
+
+The strategy of Iterative Deeping Search is to set a deep limit l and iteratively increasing the limit through the searching process until you find the goal. For each iteration, use DFS in searching. The time complexity is  $O(b^d)$, and the space complexity is  $O(bd)$ . IDS is a complete and optimal search if the cost for each step is defined and not change.
+
+The strategy of $A^*$ Search is try to find the result using heuristic function $h(n)$ to represent the estimate cost from a node to the goal. And we calculate by adding the cost so far to goal from n and estimated cost from n to goal for each node at each phase and choose the smallest estimate. The time and space complexity is  exponential. It is a complete and optimal search.

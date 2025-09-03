@@ -1,0 +1,355 @@
+{
+  "main": {
+    "id": "a4d86056183ddfeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f90947415e670204",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79b94446338a604f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "美妆和造型.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "美妆和造型"
+            }
+          },
+          {
+            "id": "c5e96bce85a982da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "街霸6-朱莉学习笔记主页"
+            }
+          },
+          {
+            "id": "e6a108531ebca675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "国内科目一考试准备笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "国内科目一考试准备笔记"
+            }
+          },
+          {
+            "id": "2e6e82668c274818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电脑优化那些事.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "电脑优化那些事"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df83503ae5b055e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4236a625f4a75161",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36ec2614a5572e15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b0bae428f2f76dee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "优化",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a36e3832bb969910",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "577cde73ca434dca",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5
+  },
+  "right": {
+    "id": "4ceca8134c659c36",
+    "type": "split",
+    "children": [
+      {
+        "id": "51aa05432e13adc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6273655415227a56",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "9f8c0b1b1ca5020b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "我的日记/2025-01-21日记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025-01-21日记 的出链列表"
+            }
+          },
+          {
+            "id": "dd8556dedbd42c8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "永久笔记(permanent note)/街霸学习笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "街霸学习笔记 的反向链接列表"
+            }
+          },
+          {
+            "id": "4a2e5677dfeb34c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4d085645242d4c6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "电脑优化那些事.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "电脑优化那些事 的大纲"
+            }
+          },
+          {
+            "id": "771a5dadaa02cff6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
+          },
+          {
+            "id": "2c2e5d5a6706230f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 366.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false,
+      "cmdr:Bookmarks: Show bookmarks": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-spaced-repetition:复习卡片": false,
+      "periodic-notes:Open this week": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "79b94446338a604f",
+  "lastOpenFiles": [
+    "电脑优化那些事.md",
+    "电竞房改造笔记.md",
+    "国内科目一考试准备笔记.md",
+    "瞬时笔记(fleetting note)/Linux 命令basename,dirname和readlink.md",
+    "Excalidraw/Drawing 2025-09-02 09.03.10.excalidraw.md",
+    "永久笔记(permanent note)/Archived Notes/LaTex编辑器的使用学习.md",
+    "spaced reputation test.md",
+    "{CS156}-Class 6 Uniformed Search.md",
+    "美妆和造型.md",
+    "Pasted image 20250901110356.png",
+    "Pasted image 20250901103635.png",
+    "厨房清洁 All In One.md",
+    "{CS200W}-.md",
+    "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
+    "College Program/Data Science/Notes/{CS146}Class 13-Graph,BFS,DFS,Strongly Connected Components.md",
+    "College Program/Data Science/Notes/{CS146}-Class 14 Topological Sorting,Kahn's Algorithm.md",
+    "College Program/Data Science/Notes/{Math261A}-Class 7.md",
+    "我的日记/2025-08-31日记.md",
+    "我的日记/2025-08-30日记.md",
+    "《置身事内：中国政府与经济发展》读书笔记.md",
+    "Obsidian模板/Templater/Templater-DailyNote.md",
+    "读书数据库.base",
+    "附件/图书封面/置身事内：中国政府与经济发展.jpg",
+    "附件/图书封面/《置身事内：中国政府与经济发展》.jpg",
+    "语言学习(Language Learning)/英语表达/”拉肚子“的表达方式.md",
+    "附件/图书封面",
+    "附件/新建文件夹",
+    "Obsidian模板/Templater/Templater-Fleeting.md",
+    "鞋柜，冰箱除臭，除异味.md",
+    "街霸6中的猜拳原理.md",
+    "永久笔记(permanent note)/街霸学习笔记.md",
+    "工作相关/Drawing 2023-04-20 16.08.27.excalidraw.md",
+    "2025-09 月度计划.md",
+    "Pasted image 20250611095651.png",
+    "Pasted image 20250611095621.png",
+    "Pasted image 20250611095510.png",
+    "Pasted image 20250611095411.png",
+    "Pasted image 20250611095234.png",
+    "附件/500OC Greensheet Fall 2023 S1.pdf",
+    "Pasted image 20241214105056.png",
+    "附件/Math163_Lecture07.pdf",
+    "附件/Math261A_Lecture09.pdf",
+    "附件/Math261A_Lecture10.pdf",
+    "附件/Math261A_Lecture03.pdf",
+    "附件/Math261A_Lecture08.pdf",
+    "附件/Math261A_Lecture07.pdf"
+  ]
+}

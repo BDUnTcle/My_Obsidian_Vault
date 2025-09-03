@@ -1,0 +1,51 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Obsidian模板/Templater",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "我的日记",
+      "template": "Obsidian模板/Templater/Templater-DailyNote.md"
+    },
+    {
+      "folder": "我的日记/Monthly Plan",
+      "template": "Obsidian模板/Templater/Templater-Monthly Plan.md"
+    },
+    {
+      "folder": "我的日记/Weekly Review",
+      "template": "Obsidian模板/Templater/Templater-Weekly Review.md"
+    },
+    {
+      "folder": "瞬时笔记(fleetting note)",
+      "template": "Obsidian模板/Templater/Templater-Fleeting.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "Obsidian模板/Templater/Templater-DailyNote.md",
+    "Obsidian模板/Templater/Templater-Fleeting.md",
+    "Obsidian模板/Templater/Templater-Monthly Plan.md",
+    "Obsidian模板/Templater/Templater-Weekly Review.md"
+  ],
+  "startup_templates": [],
+  "enable_ribbon_icon": true
+}

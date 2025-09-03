@@ -1,0 +1,63 @@
+{
+  "aestheticStyle": "glass",
+  "menuCommands": [
+    {
+      "id": "editor:toggle-checklist-status",
+      "name": "Toggle checkbox status",
+      "icon": "lucide-check-square",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "l"
+        }
+      ]
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-strikethrough",
+      "name": "cMenu: Toggle strikethrough",
+      "icon": "strikethrough-glyph"
+    },
+    {
+      "id": "cmenu-plugin:underline",
+      "name": "cMenu: Toggle underline",
+      "icon": "underline-glyph"
+    },
+    {
+      "id": "cmenu-plugin:codeblock",
+      "name": "cMenu: Toggle codeblock",
+      "icon": "codeblock-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-blockquote",
+      "name": "cMenu: Toggle blockquote",
+      "icon": "quote-glyph"
+    },
+    {
+      "id": "editor:rename-heading",
+      "name": "Rename this heading...",
+      "icon": "lucide-edit-3"
+    },
+    {
+      "id": "workspace:split-vertical",
+      "name": "Split right",
+      "icon": "lucide-separator-vertical"
+    },
+    {
+      "id": "editor:insert-table",
+      "name": "Insert table",
+      "icon": "lucide-table"
+    },
+    {
+      "id": "table-editor-obsidian:insert-row",
+      "name": "Advanced Tables: Insert row before current",
+      "icon": "insertRow"
+    }
+  ],
+  "appendMethod": "workspace",
+  "shouldShowMenuOnSelect": false,
+  "cMenuVisibility": true,
+  "cMenuBottomValue": 4.25,
+  "cMenuNumRows": 9
+}

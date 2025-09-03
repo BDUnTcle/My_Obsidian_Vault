@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "9ff17e9b1f863f49",
+    "type": "split",
+    "children": [
+      {
+        "id": "701920e3d9b10b8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "123a7fb74d177873",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "瞬时笔记（fleetting note）/我的日记/2022-10-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d27c201b878140e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b87d009ac3143b16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2101431abedb2de1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "202013e26145f02f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee2d599e0cbec731",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e5757f102b6b40f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273
+  },
+  "right": {
+    "id": "fbe497a4bb9efe89",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eb730e8ac732dfd",
+        "type": "tabs",
+        "dimension": 79.81836528758829,
+        "children": [
+          {
+            "id": "b2d6d697c600f27a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "瞬时笔记（fleetting note）/我的日记/2022-10-18.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3aa465f7a254c2a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "20b6275df624ca7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "瞬时笔记（fleetting note）/我的日记/2022-10-18.md"
+              }
+            }
+          },
+          {
+            "id": "200fce7533a40f6d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6af940bb5e4e454",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "2dd4650aaddb4fb4",
+        "type": "tabs",
+        "dimension": 20.181634712411704,
+        "children": [
+          {
+            "id": "a0c4a0088fcda39e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "瞬时笔记（fleetting note）/我的日记/2022-10-18.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 410.8333435058594,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "123a7fb74d177873",
+  "lastOpenFiles": [
+    "工作相关/2022-10-17 背单词.md",
+    "工作相关/2022-10-17 调试服务自动切换功能代码.md",
+    "工作相关/epic copy tools软件现存缺陷.md",
+    "语言学习（Language Learning）/单词和表达归纳/表示“禁止” “阻止”.md",
+    "语言学习（Language Learning）/单词和表达归纳/表示 “强调”.md",
+    "工作相关/操控服务软件设计文档_V2.0.0.pdf",
+    "语言学习（Language Learning）/单词和表达归纳/表示 “名誉，声望”.md",
+    "语言学习（Language Learning）/单词和表达归纳/表示“即将到来”.md",
+    "语言学习（Language Learning）/单词和表达归纳/表达“促进”.md",
+    "未命名.md"
+  ]
+}

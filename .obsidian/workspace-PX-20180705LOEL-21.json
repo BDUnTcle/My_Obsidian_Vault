@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "9ff17e9b1f863f49",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ad49929148bc989",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1737977c0f53932e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "瞬时笔记（fleetting note）/我的日记/2023-05-30.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d27c201b878140e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b87d009ac3143b16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2101431abedb2de1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "202013e26145f02f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee2d599e0cbec731",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e5757f102b6b40f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1ff5c295a0bf8a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 505,
+    "collapsed": true
+  },
+  "right": {
+    "id": "fbe497a4bb9efe89",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eb730e8ac732dfd",
+        "type": "tabs",
+        "dimension": 79.81836528758829,
+        "children": [
+          {
+            "id": "b2d6d697c600f27a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "瞬时笔记（fleetting note）/我的日记/2023-05-30.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3aa465f7a254c2a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "20b6275df624ca7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "瞬时笔记（fleetting note）/我的日记/2023-05-30.md"
+              }
+            }
+          },
+          {
+            "id": "200fce7533a40f6d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "918d3379c124b205",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "2dd4650aaddb4fb4",
+        "type": "tabs",
+        "dimension": 20.181634712411704,
+        "children": [
+          {
+            "id": "a0c4a0088fcda39e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "瞬时笔记（fleetting note）/我的日记/2023-05-30.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 410.8333435058594,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "templater-obsidian:Templater": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1737977c0f53932e",
+  "lastOpenFiles": [
+    "瞬时笔记（fleetting note）/我的日记/2023-05-27.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-05-29.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-05-30.md",
+    "Study Plan_Tang JiaHao.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-06-03.md",
+    "导师个人简历-邹学玉.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-05-24.md",
+    "签证面试注意事项和回答.md",
+    "永久笔记（permanent note）/Windows-OneDrive无法登陆问题解决方法.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-05-25.md",
+    "工作相关/对往期软件开发经历的反思和增强项目组开发能力的思考.md",
+    "工作相关/epic copy tools软件现存缺陷.md",
+    "工作相关/操控服务软件设计文档_V2.0.0.pdf",
+    "瞬时笔记（fleetting note）/我的日记/2022-10-14.md",
+    "语言学习（Language Learning）/100句英语学完7000雅思单词（1-10）.md",
+    "Pasted Image 20221012070909_721.png",
+    "Pasted Image 20221006115104_507.png",
+    "未命名 1.md",
+    "瞬时笔记（fleetting note）/我的日记/2022-10-13.md"
+  ]
+}

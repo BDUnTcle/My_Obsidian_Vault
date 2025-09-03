@@ -1,0 +1,27 @@
+---
+create date: 2024-09-11
+modification date: 
+tags:
+  - 游戏王
+  - 游戏王/MD
+type: NomalNotes
+---
+
+# Index
+- [[#卡组特点，对阵思路]]
+- [[#Combo 展开相关]]
+- [[#细节]]
+- [[#重要卡介绍]]
+---
+# 卡组特点，对阵思路
+# Combo 展开相关
+## 标准展开，Combo
+## 进阶 Combo
+# 细节
+# 重要卡介绍
+
+<mark style="background: #FFB8EBA6;">检索点</mark>：
+
+<mark style="background: #BBFABBA6;">特招点</mark>：
+
+<mark style="background: #FFB86CA6;">回收</mark>：

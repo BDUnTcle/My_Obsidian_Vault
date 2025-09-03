@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "9ff17e9b1f863f49",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9c22c2b46dbf733",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc6d21762e8a1472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "语言学习（Language Learning）/TOEFL/Speaking/练习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d27c201b878140e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b87d009ac3143b16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2101431abedb2de1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "202013e26145f02f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee2d599e0cbec731",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd39ca68e6c2bd66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e83861f752683a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 386
+  },
+  "right": {
+    "id": "fbe497a4bb9efe89",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eb730e8ac732dfd",
+        "type": "tabs",
+        "dimension": 79.81836528758829,
+        "children": [
+          {
+            "id": "b2d6d697c600f27a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "语言学习（Language Learning）/TOEFL/Speaking/练习.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3aa465f7a254c2a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "20b6275df624ca7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "语言学习（Language Learning）/TOEFL/Speaking/练习.md"
+              }
+            }
+          },
+          {
+            "id": "200fce7533a40f6d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6af940bb5e4e454",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "2dd4650aaddb4fb4",
+        "type": "tabs",
+        "dimension": 20.181634712411704,
+        "children": [
+          {
+            "id": "a0c4a0088fcda39e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "语言学习（Language Learning）/TOEFL/Speaking/练习.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 411,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "fc6d21762e8a1472",
+  "lastOpenFiles": [
+    "瞬时笔记（fleetting note）/我的日记/2023-05-07.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-05-08.md",
+    "语言学习（Language Learning）/TOEFL/Speaking/练习.md",
+    "语言学习（Language Learning）/English Dairy/1st Month/15th day.md",
+    "签证面试注意事项和回答.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-05-06.md",
+    "语言学习（Language Learning）/TOEFL/Speaking/TOEFL Speaking 笔记.md",
+    "语言学习（Language Learning）/uTools_1675609191490.png",
+    "语言学习（Language Learning）/TOEFL/Writing",
+    "语言学习（Language Learning）/TOEFL/Reading",
+    "语言学习（Language Learning）/TOEFL/Listening",
+    "语言学习（Language Learning）/TOEFL/Speaking",
+    "语言学习（Language Learning）/TOEFL 课程28.md",
+    "读书文献笔记/程序员专业知识学习/步骤 Linux 加密压缩 （tar 版） – Eternal Center.md",
+    "语言学习（Language Learning）/English Dairy/1st Month/14th day.md",
+    "语言学习（Language Learning）/English Dairy/1st Month/13th day.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-05-05.md",
+    "语言学习（Language Learning）/English Dairy/1st Month/12th day.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-05-04.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-04-30.md",
+    "语言学习（Language Learning）/English Dairy/1st Month/11th day.md",
+    "语言学习（Language Learning）/TOEFL 课程27.md",
+    "未命名.md",
+    "PS修订.md",
+    "语言学习（Language Learning）/TOEFL 课程26.md",
+    "语言学习（Language Learning）/English Dairy/1st Month/10th day.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-04-29.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-04-28.md",
+    "语言学习（Language Learning）/单词和表达归纳/表示 “倾斜，斜坡”.md",
+    "语言学习（Language Learning）/单词和表达归纳/表示 “溜走”.md",
+    "工作相关/EPIC操控服务目前现存设计优化项.md",
+    "附件/Pasted Image 20230424210053_014.png",
+    "附件/20230422-141141.jpg",
+    "附件/20230422-141207.jpg",
+    "语言学习（Language Learning）/TOEFL",
+    "附件/20230422-113505.jpg",
+    "附件/20230422-113500.jpg",
+    "附件/20230422-113453.jpg",
+    "附件/20230422-113442.jpg",
+    "附件/20230421-215219 1.jpg",
+    "附件/20230421-215214 1.jpg",
+    "工作相关/MMS服务架构及代码设计介绍-V1.0.pdf"
+  ]
+}

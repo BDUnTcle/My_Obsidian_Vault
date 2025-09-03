@@ -1,0 +1,92 @@
+{
+  "callouts": {
+    "custom": [
+      "g",
+      "y",
+      "r",
+      "b"
+    ],
+    "settings": {
+      "quote": [
+        {
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "158, 158, 158"
+          }
+        }
+      ],
+      "check": [
+        {
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "68, 207, 110"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "68, 207, 110"
+          }
+        }
+      ],
+      "g": [
+        {
+          "changes": {
+            "color": "0, 255, 4"
+          }
+        }
+      ],
+      "y": [
+        {
+          "changes": {
+            "color": "251, 255, 0"
+          }
+        }
+      ],
+      "r": [
+        {
+          "changes": {
+            "color": "250, 30, 30"
+          }
+        }
+      ],
+      "b": [
+        {
+          "changes": {
+            "color": "0, 119, 255"
+          }
+        }
+      ],
+      "question": [
+        {
+          "changes": {
+            "color": "138, 193, 139"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

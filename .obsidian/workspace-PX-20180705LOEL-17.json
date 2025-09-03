@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "9ff17e9b1f863f49",
+    "type": "split",
+    "children": [
+      {
+        "id": "3835c40ec86cd465",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0f297318a0175a5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "瞬时笔记（fleetting note）/我的日记/2023-03-31.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d27c201b878140e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b87d009ac3143b16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2101431abedb2de1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "TOEFL Speaking",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "202013e26145f02f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee2d599e0cbec731",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd39ca68e6c2bd66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 366,
+    "collapsed": true
+  },
+  "right": {
+    "id": "fbe497a4bb9efe89",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eb730e8ac732dfd",
+        "type": "tabs",
+        "dimension": 79.81836528758829,
+        "children": [
+          {
+            "id": "b2d6d697c600f27a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "瞬时笔记（fleetting note）/我的日记/2023-03-31.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3aa465f7a254c2a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "20b6275df624ca7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "瞬时笔记（fleetting note）/我的日记/2023-03-31.md"
+              }
+            }
+          },
+          {
+            "id": "200fce7533a40f6d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6af940bb5e4e454",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "2dd4650aaddb4fb4",
+        "type": "tabs",
+        "dimension": 20.181634712411704,
+        "children": [
+          {
+            "id": "a0c4a0088fcda39e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "瞬时笔记（fleetting note）/我的日记/2023-03-31.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 411,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "d0f297318a0175a5",
+  "lastOpenFiles": [
+    "读书文献笔记/程序员专业知识学习/将dumpbin从VS中抠出来，并使用dumpbin查看exe和dll库的依赖关系_dumpbin 依赖库_dvlinker的博客-CSDN博客.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-04-03.md",
+    "附件/将dumpbin从VS中抠出来，并使用dumpbin查看exe和dll库的依赖关系_dumpbin 依赖库_dvlinker的博客-CSDN博客.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-03-31.md",
+    "读书文献笔记/程序员专业知识学习/【Linux】 usermod命令：修改用户信息.md",
+    "读书文献笔记/程序员专业知识学习/【Linux】 ioctl()调用.md",
+    "读书文献笔记/程序员专业知识学习/【Linux】 C 语言获取 CPU 和内存数据.md",
+    "读书文献笔记/程序员专业知识学习/【Linux 系统】中Ext2文件系统的结构.md",
+    "读书文献笔记/程序员专业知识学习/【Linux 命令】-timedatectl.md",
+    "读书文献笔记/程序员专业知识学习/【Window 命令行查看】 EXE或者DLL的依赖库_windows查看依赖库_阿六_Dexter的博客-CSDN博客.md",
+    "附件/Window 命令行查看 EXE或者DLL的依赖库_windows查看依赖库_阿六_Dexter的博客-CSDN博客.md",
+    "读书文献笔记/未命名.md",
+    "读书文献笔记/控制射精的终极之道.md",
+    "附件/【Linux基础】Linux中的时区和时间_linux 时区_jiangwei0512的博客-CSDN博客.md",
+    "读书文献笔记/程序员专业知识学习/【Linux基础】Linux中的时区和时间_linux 时区_jiangwei0512的博客-CSDN博客.md",
+    "附件/微信图片_20230314165114.png",
+    "瞬时笔记（fleetting note）/我的日记/2023-03-28.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-03-29.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-03-30.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-03-27.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-03-26.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-03-22.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-03-20.md",
+    "语言学习（Language Learning）/English Dairy/1st Month/6th day.md",
+    "语言学习（Language Learning）/English Dairy/1st Month/5th day.md",
+    "语言学习（Language Learning）/TOEFL Speaking 笔记.md",
+    "语言学习（Language Learning）/TOEFL 口语课程 4.md"
+  ]
+}

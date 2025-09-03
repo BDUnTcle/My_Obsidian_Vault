@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "9ff17e9b1f863f49",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf97d5cff2311400",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86eedcea2c4f6948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "永久笔记（permanent note）/厨艺日记/【减脂】鸡肉丸.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d27c201b878140e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b87d009ac3143b16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2101431abedb2de1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "202013e26145f02f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee2d599e0cbec731",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd39ca68e6c2bd66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 516
+  },
+  "right": {
+    "id": "fbe497a4bb9efe89",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eb730e8ac732dfd",
+        "type": "tabs",
+        "dimension": 79.81836528758829,
+        "children": [
+          {
+            "id": "b2d6d697c600f27a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "永久笔记（permanent note）/厨艺日记/【减脂】鸡肉丸.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3aa465f7a254c2a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "20b6275df624ca7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "永久笔记（permanent note）/厨艺日记/【减脂】鸡肉丸.md"
+              }
+            }
+          },
+          {
+            "id": "200fce7533a40f6d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6af940bb5e4e454",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "2dd4650aaddb4fb4",
+        "type": "tabs",
+        "dimension": 20.181634712411704,
+        "children": [
+          {
+            "id": "a0c4a0088fcda39e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "永久笔记（permanent note）/厨艺日记/【减脂】鸡肉丸.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 411,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "86eedcea2c4f6948",
+  "lastOpenFiles": [
+    "永久笔记（permanent note）/厨艺日记/空气炸锅烤鸡腿.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-04-16.md",
+    "永久笔记（permanent note）/厨艺日记/酱牛肉.md",
+    "永久笔记（permanent note）/【健身笔记】减脂完全手册.md",
+    "附件/Pasted image 20230416143643.png",
+    "附件/Pasted image 20230416143608.png",
+    "附件/Pasted image 20230416143540.png",
+    "附件/Pasted image 20230416143445.png",
+    "附件/Pasted image 20230416143428.png",
+    "附件/Pasted image 20230416143255.png",
+    "附件/Pasted image 20230416143146.png",
+    "附件/Pasted image 20230416142737.png",
+    "附件/Pasted image 20230416142607.png",
+    "附件/Pasted image 20230416142517.png",
+    "永久笔记（permanent note）/【健身笔记】深蹲.md",
+    "永久笔记（permanent note）/厨艺日记/【减脂】鸡肉丸.md",
+    "永久笔记（permanent note）/厨艺日记/熬猪油.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-04-12.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-04-15.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-04-13.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-04-14.md",
+    "语言学习（Language Learning）/English Dairy/1st Month/8th day.md",
+    "读书文献笔记/程序员专业知识学习/如何防止程序多开？.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-04-11.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-04-10.md",
+    "读书文献笔记/程序员专业知识学习/Markdown语法学习笔记.md",
+    "永久笔记（permanent note）/【健身笔记】如何正确练肩？.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-04-09.md",
+    "永久笔记（permanent note）/【健身笔记】如何正确屈髋？.md",
+    "永久笔记（permanent note）/【健身笔记】如何收紧核心？.md",
+    "未命名.md",
+    "未命名 1.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-04-08.md",
+    "永久笔记（permanent note）/Windows-OneDrive无法登陆问题解决方法.md",
+    "瞬时笔记（fleetting note）/我的日记/2023-04-06.md",
+    "读书文献笔记/程序员专业知识学习/将dumpbin从VS中抠出来，并使用dumpbin查看exe和dll库的依赖关系_dumpbin 依赖库_dvlinker的博客-CSDN博客.md"
+  ]
+}

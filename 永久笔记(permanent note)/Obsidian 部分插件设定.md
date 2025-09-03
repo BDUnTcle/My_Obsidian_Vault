@@ -1,0 +1,42 @@
+#Obsidian 
+# Style Settings
+```
+{
+  "minimal-style@@h1-color@@dark": "#54A761",
+  "minimal-style@@h1-variant": "normal",
+  "minimal-style@@h1-style": "normal",
+  "minimal-style@@h2-color@@dark": "#3883A4",
+  "minimal-style@@h4-color@@dark": "#C04444",
+  "minimal-style@@h5-color@@dark": "#8860C6",
+  "minimal-style@@h6-color@@dark": "#B6634E",
+  "minimal-style@@tx1@@dark": "#6D8CE6C2",
+  "minimal-style@@hl1@@dark": "#3D3D3D8F",
+  "minimal-style@@bold-weight": 600,
+  "minimal-style@@text-bold@@dark": "#E37A7A",
+  "minimal-style@@text-italic@@dark": "#2F9CF4",
+  "minimal-style@@h1-weight": 500,
+  "minimal-style@@h4": "1em",
+  "minimal-style@@h5": "0.83em",
+  "minimal-style@@h6": "0.8em",
+  "minimal-advanced@@cursor": "pointer",
+  "minimal-advanced@@styled-scrollbars": false,
+  "minimal-advanced@@window-title-on": false,
+  "minimal-style@@h1-l": false,
+  "minimal-style@@ig-adjust-reading": -0.7,
+  "minimal-style@@checkbox-shape": "checkbox-circle",
+  "minimal-style@@list-spacing": 0.075,
+  "minimal-style@@list-indent": 2,
+  "minimal-style@@tab-style": "tab-style-1",
+  "minimal-style@@ax3@@dark": "#BF8888",
+  "minimal-style@@green@@dark": "#80CB98AB",
+  "minimal-style@@red@@dark": "#E84910",
+  "minimal-style@@yellow@@dark": "#CBD32DC9",
+  "minimal-style@@h3-weight": 600,
+  "minimal-advanced@@font-smaller": 12,
+  "minimal-advanced@@folding-offset": 10,
+  "minimal-style@@h1": "2.325em",
+  "minimal-style@@h3-color@@dark": "#AA6A54",
+  "minimal-style@@h3": "1em",
+  "minimal-style@@ax1@@dark": "#CAFF54"
+}
+```

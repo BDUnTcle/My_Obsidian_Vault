@@ -1,0 +1,33 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "",
+    "template": "",
+    "folder": "",
+    "enabled": false
+  },
+  "weekly": {
+    "format": "gggg-第ww周",
+    "template": "附件/Templater/Templater-Weekly Review.md",
+    "folder": "我的日记/Weekly Review",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "YYYY-MM-[Plan]",
+    "template": "附件/Templater/Templater-Monthly Plan.md",
+    "folder": "我的日记/Monthly Plan",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}

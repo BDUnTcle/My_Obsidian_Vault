@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.tags.contains("读书笔记")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: cards
+    name: 视图
+    filters:
+      and:
+        - file.tags.contains("读书笔记")
+    order: []
+    cardSize: 430
+    image: note.aliases
+    imageFit: contain
