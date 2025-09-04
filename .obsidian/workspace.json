@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "e6a108531ebca675",
+            "id": "fcfe96f9013a1328",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "国内科目一考试准备笔记.md",
+                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "国内科目一考试准备笔记"
+              "title": "街霸6-朱莉学习笔记主页"
             }
           },
           {
-            "id": "2e6e82668c274818",
+            "id": "ecd9e2d434bc9f84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电脑优化那些事.md",
+                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,10 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "电脑优化那些事"
+              "title": "街霸6-朱莉学习笔记主页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电脑优化那些事.md",
+                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "电脑优化那些事 的大纲"
+              "title": "街霸6-朱莉学习笔记主页 的大纲"
             }
           },
           {
@@ -258,14 +259,23 @@
               "icon": "SpacedRepIcon",
               "title": "笔记复习序列"
             }
+          },
+          {
+            "id": "e6c1f47213296755",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
-    "collapsed": true
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,7 +300,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "c5e96bce85a982da",
+  "active": "771a5dadaa02cff6",
   "lastOpenFiles": [
     "国内科目一考试准备笔记.md",
     "美妆和造型.md",
