@@ -296,8 +296,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "callout-manager:Insert Callout": false,
       "obsidian-spaced-repetition:复习卡片": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open this week": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "771a5dadaa02cff6",
