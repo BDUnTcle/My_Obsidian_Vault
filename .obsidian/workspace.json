@@ -78,9 +78,21 @@
               "icon": "lucide-file",
               "title": "街霸6-朱莉学习笔记主页"
             }
+          },
+          {
+            "id": "1156f10ed33ae78e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-09-05 09.46.57.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-05 09.46.57.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -281,8 +293,8 @@
     "hiddenItems": {
       "bases:创建新数据库": false,
       "workspaces:管理工作区布局": false,
-      "audio-recorder:开始/结束录音": false,
       "switcher:打开快速切换": false,
+      "audio-recorder:开始/结束录音": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -296,11 +308,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "callout-manager:Insert Callout": false,
       "obsidian-spaced-repetition:复习卡片": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "771a5dadaa02cff6",
+  "active": "1156f10ed33ae78e",
   "lastOpenFiles": [
+    "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
+    "Excalidraw/Drawing 2025-09-05 09.46.57.excalidraw.md",
+    "ca.md",
     "国内科目一考试准备笔记.md",
     "美妆和造型.md",
     "电脑优化那些事.md",
@@ -314,7 +330,6 @@
     "Pasted image 20250901103635.png",
     "厨房清洁 All In One.md",
     "{CS200W}-.md",
-    "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
     "College Program/Data Science/Notes/{CS146}Class 13-Graph,BFS,DFS,Strongly Connected Components.md",
     "College Program/Data Science/Notes/{CS146}-Class 14 Topological Sorting,Kahn's Algorithm.md",
     "College Program/Data Science/Notes/{Math261A}-Class 7.md",
@@ -332,8 +347,6 @@
     "鞋柜，冰箱除臭，除异味.md",
     "街霸6中的猜拳原理.md",
     "永久笔记(permanent note)/街霸学习笔记.md",
-    "工作相关/Drawing 2023-04-20 16.08.27.excalidraw.md",
-    "2025-09 月度计划.md",
     "Pasted image 20250611095651.png",
     "Pasted image 20250611095621.png",
     "Pasted image 20250611095510.png",
