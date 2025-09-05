@@ -56,19 +56,31 @@
             }
           },
           {
-            "id": "1156f10ed33ae78e",
+            "id": "0c953614036b2b3e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-09-05 09.46.57.excalidraw.md"
+                "file": "永久笔记(permanent note)/街霸学习笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-05 09.46.57.excalidraw"
+              "icon": "lucide-file",
+              "title": "街霸学习笔记"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,12 +175,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "我的日记/2025-01-21日记.md",
+                "file": "永久笔记(permanent note)/街霸学习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-01-21日记 的出链列表"
+              "title": "街霸学习笔记 的出链列表"
             }
           },
           {
@@ -209,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
+                "file": "永久笔记(permanent note)/街霸学习笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "街霸6-朱莉学习笔记主页 的大纲"
+              "title": "街霸学习笔记 的大纲"
             }
           },
           {
@@ -284,13 +296,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "callout-manager:Insert Callout": false,
       "obsidian-spaced-repetition:复习卡片": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "ecd9e2d434bc9f84",
+  "active": "771a5dadaa02cff6",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-09-05 09.46.57.excalidraw.md",
     "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
+    "Excalidraw/Drawing 2025-09-05 09.46.57.excalidraw.md",
     "ca.md",
     "国内科目一考试准备笔记.md",
     "美妆和造型.md",
