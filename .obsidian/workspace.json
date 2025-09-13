@@ -55,7 +55,8 @@
               "title": "街霸6博弈论"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "永久笔记(permanent note)/街霸学习笔记.md",
+                "file": "街霸6博弈论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "街霸学习笔记 的反向链接列表"
+              "title": "街霸6博弈论 的反向链接列表"
             }
           },
           {
@@ -198,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "永久笔记(permanent note)/街霸学习笔记.md",
+                "file": "街霸6博弈论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "街霸学习笔记 的大纲"
+              "title": "街霸6博弈论 的大纲"
             }
           },
           {
@@ -277,11 +278,12 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "4d085645242d4c6b",
+  "active": "0c953614036b2b3e",
   "lastOpenFiles": [
-    "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
-    "街霸6博弈论.md",
     "永久笔记(permanent note)/街霸学习笔记.md",
+    "街霸6中的猜拳原理.md",
+    "街霸6博弈论.md",
+    "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
     "Excalidraw/Drawing 2025-09-05 09.46.57.excalidraw.md",
     "ca.md",
     "国内科目一考试准备笔记.md",
@@ -311,7 +313,6 @@
     "附件/图书封面",
     "附件/新建文件夹",
     "Obsidian模板/Templater/Templater-Fleeting.md",
-    "鞋柜，冰箱除臭，除异味.md",
     "Pasted image 20250611095651.png",
     "Pasted image 20250611095621.png",
     "Pasted image 20250611095510.png",
