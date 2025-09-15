@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "永久笔记(permanent note)/街霸学习笔记.md",
+                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "街霸学习笔记"
+              "title": "街霸6-朱莉学习笔记主页"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "街霸6博弈论"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "街霸6博弈论.md",
+                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "街霸6博弈论 的大纲"
+              "title": "街霸6-朱莉学习笔记主页 的大纲"
             }
           },
           {
@@ -278,11 +277,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "771a5dadaa02cff6",
+  "active": "ecd9e2d434bc9f84",
   "lastOpenFiles": [
     "永久笔记(permanent note)/街霸学习笔记.md",
-    "街霸6中的猜拳原理.md",
     "街霸6博弈论.md",
+    "街霸6中的猜拳原理.md",
     "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
     "Excalidraw/Drawing 2025-09-05 09.46.57.excalidraw.md",
     "ca.md",
