@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
+                "file": "永久笔记(permanent note)/街霸学习笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "街霸6-朱莉学习笔记主页"
+              "title": "街霸学习笔记"
+            }
+          },
+          {
+            "id": "a1230d76b7dbb3f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "永久笔记(permanent note)/街霸6-隆学习笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "街霸6-隆学习笔记"
+            }
+          },
+          {
+            "id": "6b0033b28b0ffa41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "永久笔记(permanent note)/街霸6-嘉米学习笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "街霸6-嘉米学习笔记"
             }
           },
           {
@@ -55,7 +103,8 @@
               "title": "街霸6博弈论"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,8 +189,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -150,12 +199,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "永久笔记(permanent note)/街霸学习笔记.md",
+                "file": "永久笔记(permanent note)/街霸6-嘉米学习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "街霸学习笔记 的出链列表"
+              "title": "街霸6-嘉米学习笔记 的出链列表"
             }
           },
           {
@@ -164,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "街霸6博弈论.md",
+                "file": "永久笔记(permanent note)/街霸6-嘉米学习笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +223,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "街霸6博弈论 的反向链接列表"
+              "title": "街霸6-嘉米学习笔记 的反向链接列表"
             }
           },
           {
@@ -248,7 +297,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -273,15 +322,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "callout-manager:Insert Callout": false,
       "obsidian-spaced-repetition:复习卡片": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "ecd9e2d434bc9f84",
+  "active": "0e0206d0b8b0871a",
   "lastOpenFiles": [
+    "永久笔记(permanent note)/街霸6-隆学习笔记.md",
+    "永久笔记(permanent note)/街霸6-嘉米学习笔记.md",
     "永久笔记(permanent note)/街霸学习笔记.md",
     "街霸6博弈论.md",
-    "街霸6中的猜拳原理.md",
+    "永久笔记(permanent note)/街霸6-桑吉亚夫学习笔记.md",
     "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
+    "街霸6中的猜拳原理.md",
     "Excalidraw/Drawing 2025-09-05 09.46.57.excalidraw.md",
     "ca.md",
     "国内科目一考试准备笔记.md",
@@ -303,14 +356,11 @@
     "我的日记/2025-08-31日记.md",
     "我的日记/2025-08-30日记.md",
     "《置身事内：中国政府与经济发展》读书笔记.md",
-    "Obsidian模板/Templater/Templater-DailyNote.md",
     "读书数据库.base",
     "附件/图书封面/置身事内：中国政府与经济发展.jpg",
     "附件/图书封面/《置身事内：中国政府与经济发展》.jpg",
-    "语言学习(Language Learning)/英语表达/”拉肚子“的表达方式.md",
     "附件/图书封面",
     "附件/新建文件夹",
-    "Obsidian模板/Templater/Templater-Fleeting.md",
     "Pasted image 20250611095651.png",
     "Pasted image 20250611095621.png",
     "Pasted image 20250611095510.png",
