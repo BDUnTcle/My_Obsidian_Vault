@@ -79,8 +79,7 @@
               "title": "街霸6博弈论"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,13 +297,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "callout-manager:Insert Callout": false,
       "obsidian-spaced-repetition:复习卡片": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "0c953614036b2b3e",
+  "active": "ecd9e2d434bc9f84",
   "lastOpenFiles": [
-    "永久笔记(permanent note)/街霸学习笔记.md",
     "街霸6博弈论.md",
+    "永久笔记(permanent note)/街霸学习笔记.md",
     "College Program/Data Science/Notes/{CS146}-Class 14 Topological Sorting,Kahn's Algorithm.md",
     "国内科目一考试准备笔记.md",
     "永久笔记(permanent note)/街霸6-隆学习笔记.md",
