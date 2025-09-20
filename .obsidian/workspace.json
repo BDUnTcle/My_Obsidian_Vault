@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "永久笔记(permanent note)/街霸学习笔记.md",
+                "file": "永久笔记(permanent note)/街霸6-隆学习笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "街霸学习笔记"
+              "title": "街霸6-隆学习笔记"
             }
           },
           {
@@ -303,8 +303,8 @@
   },
   "active": "ecd9e2d434bc9f84",
   "lastOpenFiles": [
-    "街霸6博弈论.md",
     "永久笔记(permanent note)/街霸学习笔记.md",
+    "街霸6博弈论.md",
     "College Program/Data Science/Notes/{CS146}-Class 14 Topological Sorting,Kahn's Algorithm.md",
     "国内科目一考试准备笔记.md",
     "永久笔记(permanent note)/街霸6-隆学习笔记.md",
