@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
+                "file": "永久笔记(permanent note)/饮食计划.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "街霸6-朱莉学习笔记主页"
+              "title": "饮食计划"
             }
           },
           {
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#驾考科目一",
+                "query": "tag:#我的科学健身笔记  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "4ceca8134c659c36",
@@ -187,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
+                "file": "永久笔记(permanent note)/饮食计划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +198,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "街霸6-朱莉学习笔记主页 的反向链接列表"
+              "title": "饮食计划 的反向链接列表"
             }
           },
           {
@@ -296,18 +297,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "callout-manager:Insert Callout": false,
       "obsidian-spaced-repetition:复习卡片": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open this week": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "771a5dadaa02cff6",
+  "active": "ecd9e2d434bc9f84",
   "lastOpenFiles": [
+    "永久笔记(permanent note)/【健身笔记】减脂完全手册.md",
+    "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
     "永久笔记(permanent note)/街霸学习笔记.md",
     "永久笔记(permanent note)/街霸6-隆学习笔记.md",
     "街霸6博弈论.md",
     "College Program/Data Science/Notes/{CS146}-Class 14 Topological Sorting,Kahn's Algorithm.md",
     "国内科目一考试准备笔记.md",
-    "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
     "永久笔记(permanent note)/街霸6-嘉米学习笔记.md",
     "永久笔记(permanent note)/街霸6-桑吉亚夫学习笔记.md",
     "街霸6中的猜拳原理.md",
@@ -329,7 +330,6 @@
     "College Program/Data Science/Notes/{Math261A}-Class 7.md",
     "我的日记/2025-08-31日记.md",
     "我的日记/2025-08-30日记.md",
-    "《置身事内：中国政府与经济发展》读书笔记.md",
     "读书数据库.base",
     "附件/图书封面/置身事内：中国政府与经济发展.jpg",
     "附件/图书封面/《置身事内：中国政府与经济发展》.jpg",
