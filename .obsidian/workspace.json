@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "永久笔记(permanent note)/街霸6-隆学习笔记.md",
+                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "街霸6-隆学习笔记"
+              "title": "街霸6-朱莉学习笔记主页"
             }
           },
           {
@@ -174,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "永久笔记(permanent note)/街霸6-嘉米学习笔记.md",
+                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "街霸6-嘉米学习笔记 的出链列表"
+              "title": "街霸6-朱莉学习笔记主页 的出链列表"
             }
           },
           {
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "永久笔记(permanent note)/街霸6-嘉米学习笔记.md",
+                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "街霸6-嘉米学习笔记 的反向链接列表"
+              "title": "街霸6-朱莉学习笔记主页 的反向链接列表"
             }
           },
           {
@@ -272,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -297,16 +297,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "callout-manager:Insert Callout": false,
       "obsidian-spaced-repetition:复习卡片": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open this week": false
     }
   },
   "active": "ecd9e2d434bc9f84",
   "lastOpenFiles": [
     "永久笔记(permanent note)/街霸学习笔记.md",
+    "永久笔记(permanent note)/街霸6-隆学习笔记.md",
     "街霸6博弈论.md",
     "College Program/Data Science/Notes/{CS146}-Class 14 Topological Sorting,Kahn's Algorithm.md",
     "国内科目一考试准备笔记.md",
-    "永久笔记(permanent note)/街霸6-隆学习笔记.md",
     "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
     "永久笔记(permanent note)/街霸6-嘉米学习笔记.md",
     "永久笔记(permanent note)/街霸6-桑吉亚夫学习笔记.md",
