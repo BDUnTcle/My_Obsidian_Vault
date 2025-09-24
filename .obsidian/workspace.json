@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f90947415e670204",
+        "id": "e78a713114bc77bc",
         "type": "tabs",
         "children": [
           {
-            "id": "ecd9e2d434bc9f84",
+            "id": "e4f335b59a760a45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "永久笔记(permanent note)/饮食计划.md",
+                "file": "永久笔记(permanent note)/街霸6-隆学习笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "饮食计划"
-            }
-          },
-          {
-            "id": "0c953614036b2b3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "美妆和造型.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "美妆和造型"
+              "title": "街霸6-隆学习笔记"
             }
           }
         ]
@@ -257,14 +233,14 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "1db382f2100c864a",
+  "active": "e4f335b59a760a45",
   "lastOpenFiles": [
+    "永久笔记(permanent note)/饮食计划.md",
     "美妆和造型.md",
     "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
     "永久笔记(permanent note)/街霸学习笔记.md",
     "街霸6博弈论.md",
     "永久笔记(permanent note)/街霸6-嘉米学习笔记.md",
-    "永久笔记(permanent note)/饮食计划.md",
     "永久笔记(permanent note)/【健身笔记】减脂完全手册.md",
     "永久笔记(permanent note)/街霸6-隆学习笔记.md",
     "College Program/Data Science/Notes/{CS146}-Class 14 Topological Sorting,Kahn's Algorithm.md",
