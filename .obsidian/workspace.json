@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
+                "file": "美妆和造型.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "街霸6-朱莉学习笔记主页"
+              "title": "美妆和造型"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#我的科学健身笔记  ",
+                "query": "tag:#化妆 ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
+                "file": "美妆和造型.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "街霸6-朱莉学习笔记主页 的反向链接列表"
+              "title": "美妆和造型 的反向链接列表"
             }
           },
           {
@@ -260,12 +259,13 @@
   },
   "active": "1db382f2100c864a",
   "lastOpenFiles": [
+    "美妆和造型.md",
+    "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
     "永久笔记(permanent note)/街霸学习笔记.md",
     "街霸6博弈论.md",
     "永久笔记(permanent note)/街霸6-嘉米学习笔记.md",
     "永久笔记(permanent note)/饮食计划.md",
     "永久笔记(permanent note)/【健身笔记】减脂完全手册.md",
-    "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
     "永久笔记(permanent note)/街霸6-隆学习笔记.md",
     "College Program/Data Science/Notes/{CS146}-Class 14 Topological Sorting,Kahn's Algorithm.md",
     "国内科目一考试准备笔记.md",
@@ -273,7 +273,6 @@
     "街霸6中的猜拳原理.md",
     "Excalidraw/Drawing 2025-09-05 09.46.57.excalidraw.md",
     "ca.md",
-    "美妆和造型.md",
     "电脑优化那些事.md",
     "电竞房改造笔记.md",
     "瞬时笔记(fleetting note)/Linux 命令basename,dirname和readlink.md",
