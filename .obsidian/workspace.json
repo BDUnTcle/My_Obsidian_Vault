@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "街霸6博弈论.md",
+                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "街霸6博弈论"
+              "title": "街霸6-朱莉学习笔记主页"
             }
           },
           {
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "街霸6博弈论.md",
+                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "街霸6博弈论 的反向链接列表"
+              "title": "街霸6-朱莉学习笔记主页 的反向链接列表"
             }
           },
           {
@@ -228,7 +228,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -257,15 +257,15 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "1db382f2100c864a",
+  "active": "e4f335b59a760a45",
   "lastOpenFiles": [
     "永久笔记(permanent note)/街霸学习笔记.md",
+    "街霸6博弈论.md",
     "永久笔记(permanent note)/街霸6-朱莉学习笔记主页.md",
     "永久笔记(permanent note)/饮食计划.md",
     "永久笔记(permanent note)/街霸6-隆学习笔记.md",
     "永久笔记(permanent note)/【健身笔记】减脂完全手册.md",
     "美妆和造型.md",
-    "街霸6博弈论.md",
     "永久笔记(permanent note)/街霸6-嘉米学习笔记.md",
     "College Program/Data Science/Notes/{CS146}-Class 14 Topological Sorting,Kahn's Algorithm.md",
     "国内科目一考试准备笔记.md",
