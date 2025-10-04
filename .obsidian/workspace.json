@@ -79,7 +79,8 @@
               "title": "饮食计划"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
+                "file": "永久笔记(permanent note)/饮食计划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +199,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "街霸6-朱莉学习笔记 的反向链接列表"
+              "title": "饮食计划 的反向链接列表"
             }
           },
           {
@@ -281,10 +282,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "1db382f2100c864a",
+  "active": "2bb1d6c4eeb41ab5",
   "lastOpenFiles": [
-    "永久笔记(permanent note)/街霸学习笔记.md",
     "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
+    "永久笔记(permanent note)/街霸学习笔记.md",
     "街霸6博弈论.md",
     "永久笔记(permanent note)/饮食计划.md",
     "永久笔记(permanent note)/街霸6-隆学习笔记.md",
