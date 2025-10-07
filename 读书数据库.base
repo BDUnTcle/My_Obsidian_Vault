@@ -1,5 +1,5 @@
 views:
-  - type: table
+  - type: cards
     name: 表格
     filters:
       and:
@@ -7,6 +7,8 @@ views:
     sort:
       - property: file.name
         direction: ASC
+    imageAspectRatio: 0.65
+    imageFit: contain
   - type: cards
     name: 视图
     filters:
@@ -16,3 +18,4 @@ views:
     cardSize: 430
     image: note.aliases
     imageFit: contain
+    imageAspectRatio: 0.75

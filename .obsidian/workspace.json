@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e78a713114bc77bc",
+        "id": "9e9e042e36cde043",
         "type": "tabs",
         "children": [
           {
-            "id": "e4f335b59a760a45",
+            "id": "7a3cc13360293e69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
+                "file": "《两性心理解密——女人篇（2004）》读书笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,83 +28,26 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "街霸6-朱莉学习笔记"
+              "title": "《两性心理解密——女人篇（2004）》读书笔记"
             }
           },
           {
-            "id": "c794470c35ee4f75",
+            "id": "e4917f417e1b1398",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "街霸6博弈论.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "附件/两性心理解密——女人篇（2004）.pdf",
+                "page": 18,
+                "left": -10,
+                "top": 457,
+                "zoom": 1.5724864588735812
               },
-              "icon": "lucide-file",
-              "title": "街霸6博弈论"
-            }
-          },
-          {
-            "id": "2bb1d6c4eeb41ab5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "永久笔记(permanent note)/【健身笔记】如何正确练肩？.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "【健身笔记】如何正确练肩？"
-            }
-          },
-          {
-            "id": "0056821611c0f099",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【健身笔记】健身解剖手册.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "【健身笔记】健身解剖手册"
+              "icon": "lucide-file-text",
+              "title": "两性心理解密——女人篇（2004）"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#我的科学健身笔记",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,12 +110,12 @@
               "title": "recent-files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "4ceca8134c659c36",
@@ -306,20 +249,37 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "1db382f2100c864a",
+  "active": "7a3cc13360293e69",
   "lastOpenFiles": [
+    "附件/两性心理解密——女人篇（2004）.pdf",
+    "《两性心理解密——女人篇（2004）》读书笔记.md",
+    "读书数据库.base",
+    "街霸6博弈论.md",
+    "《两性心理解密——男人篇（2004）》读书笔记.md",
+    "《置身事内：中国政府与经济发展》读书笔记.md",
+    "《中国男性究极进化手册》读书笔记.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "附件/两性心理解密——男人篇（2004）.pdf",
+    "附件/图书封面/两性心理解密——女人篇（2004）.png",
+    "附件/图书封面/两性心理解密——男人篇（2004）.png",
+    "附件/图书封面/两性心理解密——男人篇（2004）.pdf",
+    "附件/图书封面/两性心理解密——女人篇（2004）.pdf",
+    "Ambarella.md",
+    "永久笔记(permanent note)/【健身笔记】如何正确练肩？.md",
+    "未命名.md",
+    "附件/中国男性究极进化手册 第三版无密码.pdf",
+    "附件/图书封面/《中国男性究极进化手册》.png",
+    "附件/图书封面/中国男性究极进化手册 第三版无密码.pdf",
+    "【健身笔记】健身解剖手册.md",
     "Pasted image 20251006072033.png",
     "Pasted image 20251006071109.png",
     "Pasted image 20251006070642.png",
     "Pasted image 20251006070622.png",
     "Pasted image 20251006070535.png",
     "Pasted image 20251006065827.png",
-    "永久笔记(permanent note)/【健身笔记】如何正确练肩？.md",
-    "【健身笔记】健身解剖手册.md",
-    "街霸6博弈论.md",
     "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
     "永久笔记(permanent note)/饮食计划.md",
-    "未命名.md",
     "永久笔记(permanent note)/街霸学习笔记.md",
     "永久笔记(permanent note)/街霸6-隆学习笔记.md",
     "永久笔记(permanent note)/【健身笔记】减脂完全手册.md",
@@ -332,27 +292,9 @@
     "Excalidraw/Drawing 2025-09-05 09.46.57.excalidraw.md",
     "ca.md",
     "电脑优化那些事.md",
-    "电竞房改造笔记.md",
-    "瞬时笔记(fleetting note)/Linux 命令basename,dirname和readlink.md",
-    "Excalidraw/Drawing 2025-09-02 09.03.10.excalidraw.md",
-    "永久笔记(permanent note)/Archived Notes/LaTex编辑器的使用学习.md",
-    "spaced reputation test.md",
-    "{CS156}-Class 6 Uniformed Search.md",
     "Pasted image 20250901110356.png",
-    "Pasted image 20250901103635.png",
-    "厨房清洁 All In One.md",
-    "读书数据库.base",
-    "附件/图书封面/置身事内：中国政府与经济发展.jpg",
-    "附件/图书封面/《置身事内：中国政府与经济发展》.jpg",
     "附件/图书封面",
     "附件/新建文件夹",
-    "Pasted image 20250611095651.png",
-    "附件/500OC Greensheet Fall 2023 S1.pdf",
-    "附件/Math163_Lecture07.pdf",
-    "附件/Math261A_Lecture09.pdf",
-    "附件/Math261A_Lecture10.pdf",
-    "附件/Math261A_Lecture03.pdf",
-    "附件/Math261A_Lecture08.pdf",
-    "附件/Math261A_Lecture07.pdf"
+    "附件/500OC Greensheet Fall 2023 S1.pdf"
   ]
 }
