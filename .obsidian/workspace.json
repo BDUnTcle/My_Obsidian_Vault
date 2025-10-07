@@ -4,24 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "fad6b5dcd46f4e1f",
+        "id": "5108142eba15927d",
         "type": "tabs",
-        "dimension": 54.08653846153846,
         "children": [
           {
-            "id": "67a1947e85700f1b",
+            "id": "78c0fc303d84dc6c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "附件/中国男性究极进化手册 第三版无密码.pdf",
-                "page": 42,
-                "left": -14,
-                "top": 726,
-                "zoom": 1.0695928240274137
+                "file": "附件/性学观止(插图第6版)贺兰特·凯查杜里安_扫描版.pdf",
+                "page": 27,
+                "left": -13,
+                "top": 7,
+                "zoom": 1.241824522721732
               },
               "icon": "lucide-file-text",
-              "title": "中国男性究极进化手册 第三版无密码"
+              "title": "性学观止(插图第6版)贺兰特·凯查杜里安_扫描版"
             }
           }
         ]
@@ -29,15 +28,27 @@
       {
         "id": "18baa3d7261fca1a",
         "type": "tabs",
-        "dimension": 45.91346153846153,
         "children": [
+          {
+            "id": "a48eb6966805b31a",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "读书数据库.base",
+                "viewName": "视图"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "读书数据库"
+            }
+          },
           {
             "id": "c5ffce46113ae983",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "《中国男性究极进化手册》读书笔记.md",
+                "file": "《性学观止》读书笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +63,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "《中国男性究极进化手册》读书笔记"
+              "title": "《性学观止》读书笔记"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "读书",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -257,18 +269,23 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "67a1947e85700f1b",
+  "active": "78c0fc303d84dc6c",
   "lastOpenFiles": [
+    "《性学观止》读书笔记.md",
+    "附件/性学观止(插图第6版)贺兰特·凯查杜里安_扫描版.pdf",
+    "[性学观止（插图第 6 版）]. 贺兰特·凯查杜里安. 扫描版. Pdf.md",
+    "读书数据库.base",
+    "《两性心理解密——男人篇（2004）》读书笔记.md",
+    "附件/[性学观止（插图第6版）].贺兰特·凯查杜里安.扫描版.pdf",
+    "附件/图书封面/性学观止.png",
+    "附件/图书封面/1759821366899.png",
     "《中国男性究极进化手册》读书笔记.md",
     "附件/中国男性究极进化手册 第三版无密码.pdf",
-    "读书数据库.base",
     "附件/两性心理解密——女人篇（2004）.pdf",
     "《两性心理解密——女人篇（2004）》读书笔记.md",
     "街霸6博弈论.md",
-    "《两性心理解密——男人篇（2004）》读书笔记.md",
     "《置身事内：中国政府与经济发展》读书笔记.md",
     "Untitled 1.md",
-    "Untitled.md",
     "附件/两性心理解密——男人篇（2004）.pdf",
     "附件/图书封面/两性心理解密——女人篇（2004）.png",
     "附件/图书封面/两性心理解密——男人篇（2004）.png",
@@ -285,7 +302,6 @@
     "Pasted image 20251006070642.png",
     "Pasted image 20251006070622.png",
     "Pasted image 20251006070535.png",
-    "Pasted image 20251006065827.png",
     "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
     "永久笔记(permanent note)/饮食计划.md",
     "永久笔记(permanent note)/街霸学习笔记.md",
@@ -299,10 +315,6 @@
     "街霸6中的猜拳原理.md",
     "Excalidraw/Drawing 2025-09-05 09.46.57.excalidraw.md",
     "ca.md",
-    "电脑优化那些事.md",
-    "Pasted image 20250901110356.png",
-    "附件/图书封面",
-    "附件/新建文件夹",
-    "附件/500OC Greensheet Fall 2023 S1.pdf"
+    "附件/图书封面"
   ]
 }
