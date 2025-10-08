@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "附件/性学观止(插图第6版)贺兰特·凯查杜里安_扫描版.pdf",
-                "page": 27,
-                "left": -13,
-                "top": 7,
-                "zoom": 1.241824522721732
+                "page": 101,
+                "left": -78,
+                "top": 460,
+                "zoom": 0.9844537815126051
               },
               "icon": "lucide-file-text",
               "title": "性学观止(插图第6版)贺兰特·凯查杜里安_扫描版"
@@ -35,10 +35,9 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "读书数据库.base",
-                "viewName": "视图"
+                "file": "读书数据库.base"
               },
-              "icon": "lucide-layout-grid",
+              "icon": "lucide-layout-list",
               "title": "读书数据库"
             }
           },
@@ -66,8 +65,7 @@
               "title": "《性学观止》读书笔记"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,10 +267,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "78c0fc303d84dc6c",
+  "active": "a48eb6966805b31a",
   "lastOpenFiles": [
-    "《性学观止》读书笔记.md",
     "附件/性学观止(插图第6版)贺兰特·凯查杜里安_扫描版.pdf",
+    "《性学观止》读书笔记.md",
     "[性学观止（插图第 6 版）]. 贺兰特·凯查杜里安. 扫描版. Pdf.md",
     "读书数据库.base",
     "《两性心理解密——男人篇（2004）》读书笔记.md",
