@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1cb59f93e43c0955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "健身增肌进步记录.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "健身增肌进步记录"
-            }
-          },
-          {
             "id": "e8a7465694ff3d8f",
             "type": "leaf",
             "state": {
@@ -85,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "《中国男性究极进化手册》读书笔记.md",
+                "file": "《迷男方法》读书笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +76,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "《中国男性究极进化手册》读书笔记"
+              "title": "《迷男方法》读书笔记"
+            }
+          },
+          {
+            "id": "80a545ca56f8b990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git LFS 插件使用笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Git LFS 插件使用笔记"
             }
           }
         ],
@@ -136,8 +136,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tag: #git ",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -167,7 +167,8 @@
               "title": "recent-files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -246,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "《迷男方法》读书笔记.md",
+                "file": "Git LFS 插件使用笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "《迷男方法》读书笔记 的大纲"
+              "title": "Git LFS 插件使用笔记 的大纲"
             }
           },
           {
@@ -290,7 +291,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 366.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -315,11 +317,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "4bee4d8e984514fb",
+  "active": "1db382f2100c864a",
   "lastOpenFiles": [
-    "附件/中国男性究极进化手册 第三版无密码.pdf",
-    "《中国男性究极进化手册》读书笔记.md",
+    "Git LFS 插件使用笔记.md",
     "《迷男方法》读书笔记.md",
+    "未命名.md",
+    "把妹百科全书.md",
+    "国内科目一考试准备笔记.md",
+    "健身增肌进步记录.md",
+    "附件/Large Files/《谜男方法》.pdf",
+    "《中国男性究极进化手册》读书笔记.md",
+    "附件/中国男性究极进化手册 第三版无密码.pdf",
     "附件/《谜男方法》.pdf",
     "《女人其实都想要》读书笔记.md",
     "附件/《女人其实都想要》.7z",
@@ -331,7 +339,6 @@
     "screen shoot_2.png",
     "screen shoot_2 1.png",
     "Untitled 2.md",
-    "Untitled.md",
     "Untitled 1.md",
     "永久笔记(permanent note)/程序员专业知识学习/Git学习笔记.md",
     "永久笔记(permanent note)/程序员专业知识学习/Python基础学习笔记.md",
@@ -343,9 +350,6 @@
     "Pasted image 20251022064621.png",
     "Pasted image 20251022064416.png",
     "Pasted image 20251022064208.png",
-    "健身增肌进步记录.md",
-    "国内科目一考试准备笔记.md",
-    "把妹百科全书.md",
     "人体必需摄入营养物质归纳.md",
     "《体贴X爱秘技：加藤鹰的终极术》读书笔记.md",
     "《冷读术》读书笔记.md",
@@ -360,7 +364,6 @@
     "把妹达人-搭讪圣经.md",
     "附件/32.《搭讪圣经》.pdf",
     "附件/《把妹达人-搭讪圣经》.pdf",
-    "附件/85《搭讪圣经》.pdf",
-    "附件/极致爱抚1 胸部特集.pdf"
+    "附件/85《搭讪圣经》.pdf"
   ]
 }
