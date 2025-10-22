@@ -107,10 +107,24 @@
             "id": "9fa599e5da8bbf2f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "《女人其实都想要》读书笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "《女人其实都想要》读书笔记"
             }
           }
         ],
@@ -321,12 +335,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "callout-manager:Insert Callout": false,
       "obsidian-spaced-repetition:复习卡片": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open this week": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1db382f2100c864a",
+  "active": "9fa599e5da8bbf2f",
   "lastOpenFiles": [
+    "附件/《女人其实都想要》.7z",
     "《迷男方法》读书笔记.md",
     "男生如何穿搭和造型.md",
     "screen shoot_0.png",
