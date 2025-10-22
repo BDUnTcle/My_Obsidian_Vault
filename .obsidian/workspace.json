@@ -102,33 +102,9 @@
               "icon": "lucide-file",
               "title": "《迷男方法》读书笔记"
             }
-          },
-          {
-            "id": "a4b170010764fdb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "男生如何穿搭和造型.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "男生如何穿搭和造型"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "4ceca8134c659c36",
@@ -338,8 +315,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "a4b170010764fdb8",
+  "active": "e6c1f47213296755",
   "lastOpenFiles": [
+    "男生如何穿搭和造型.md",
     "screen shoot_0.png",
     "screen shoot_0 1.png",
     "screen shoot_1.png",
@@ -355,12 +333,10 @@
     "瞬时笔记(fleetting note)/Python Pandas库学习笔记及示例代码合集.md",
     "永久笔记(permanent note)/程序员专业知识学习/PyCharm学习笔记.md",
     "瞬时笔记(fleetting note)/Format Output in Python.md",
-    "男生如何穿搭和造型.md",
     "Pasted image 20251022064841.png",
     "Pasted image 20251022064621.png",
     "Pasted image 20251022064416.png",
     "Pasted image 20251022064208.png",
-    "Pasted image 20251022063817.png",
     "健身增肌进步记录.md",
     "附件/《谜男方法》.pdf",
     "《迷男方法》读书笔记.md",
