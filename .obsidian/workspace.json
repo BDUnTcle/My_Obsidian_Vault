@@ -102,9 +102,19 @@
               "icon": "lucide-file",
               "title": "《迷男方法》读书笔记"
             }
+          },
+          {
+            "id": "9fa599e5da8bbf2f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -286,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -315,8 +325,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "e6c1f47213296755",
+  "active": "1db382f2100c864a",
   "lastOpenFiles": [
+    "《迷男方法》读书笔记.md",
     "男生如何穿搭和造型.md",
     "screen shoot_0.png",
     "screen shoot_0 1.png",
@@ -339,7 +350,6 @@
     "Pasted image 20251022064208.png",
     "健身增肌进步记录.md",
     "附件/《谜男方法》.pdf",
-    "《迷男方法》读书笔记.md",
     "国内科目一考试准备笔记.md",
     "把妹百科全书.md",
     "人体必需摄入营养物质归纳.md",
