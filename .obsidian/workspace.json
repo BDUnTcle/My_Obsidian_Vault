@@ -102,23 +102,9 @@
               "icon": "lucide-file",
               "title": "《迷男方法》读书笔记"
             }
-          },
-          {
-            "id": "9fa599e5da8bbf2f",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "4ceca8134c659c36",
@@ -260,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "男生如何穿搭和造型.md",
+                "file": "《迷男方法》读书笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "男生如何穿搭和造型 的大纲"
+              "title": "《迷男方法》读书笔记 的大纲"
             }
           },
           {
@@ -325,7 +310,8 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "callout-manager:Insert Callout": false,
       "obsidian-spaced-repetition:复习卡片": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open this week": false
     }
   },
   "active": "e6c1f47213296755",
