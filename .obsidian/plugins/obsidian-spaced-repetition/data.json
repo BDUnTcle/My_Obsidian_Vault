@@ -10,9 +10,10 @@
     "flashcardDeckOrder": "PrevDeckComplete_Sequential",
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
-    "convertCurlyBracketsToClozes": false,
+    "convertCurlyBracketsToClozes": true,
     "clozePatterns": [
-      "==[123;;]answer[;;hint]=="
+      "==[123;;]answer[;;hint]==",
+      "{{[123;;]answer[;;hint]}}"
     ],
     "singleLineCardSeparator": "-?-?->",
     "singleLineReversedCardSeparator": "<:::>",

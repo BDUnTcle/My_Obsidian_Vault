@@ -1,4 +1,4 @@
-#CS/Python #CS/编程语言/Python #程序员 #CS/MachineLearning
+#CS/编程语言/Python #程序员 #CS/MachineLearning
 
 ---
 # 一些事前环境准备和相关工具软件安装

@@ -1,4 +1,4 @@
-#CS/Python #CS/编程语言/Python #CS/编程语言 #程序员 
+#CS/编程语言/Python #CS/编程语言 #程序员 
 
 ---
 # 第三方库的安装
@@ -19,6 +19,7 @@ pip is the [package installer](https://packaging.python.org/guides/tool-recomme
 《Hands-on Machine Learning with scikit-learn and TensorFlow: [https://amzn.to/2IdUuJy](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbk1wdHM1Q2czMnFfM3l0WDRyRzZiT0lxcGpNZ3xBQ3Jtc0tuMzRlQl9Pd29VMkpHQllIUE5hX0xyWGE3dGhzSTFMOUpzNW1PM2RyXzk2QjNHRXNFMW1pSzhVQXlRX2ZBZy1odEt6SE1EQnB0MVhrZ1RPWXVaTlo5U19yN0pzYS14S3laMUZid0dQYk1XVzhrb3k3dw&q=https%3A%2F%2Famzn.to%2F2IdUuJy&v=_uQrJ0TkZlc)》
 
 ---
+# 基础语法
 # 零散的知识
 `__name__` 和 `__main__` 是 python 中隐含的变量
 - `__name__` 代表模块的名字
