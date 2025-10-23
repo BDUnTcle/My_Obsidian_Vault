@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "国内科目一考试准备笔记"
             }
+          },
+          {
+            "id": "9e0e3b93b878412a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "健身增肌进步记录.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "健身增肌进步记录"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git LFS 插件使用笔记.md",
+                "file": "附件/Large Files/《谜男方法》.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Git LFS 插件使用笔记 的大纲"
+              "title": "《谜男方法》 的大纲"
             }
           },
           {
@@ -246,25 +271,29 @@
   },
   "active": "1db382f2100c864a",
   "lastOpenFiles": [
-    "男生如何穿搭和造型.md",
-    "把妹百科全书.md",
+    "国内科目一考试准备笔记.md",
+    "附件/Large Files/《谜男方法》.pdf",
     "《迷男方法》读书笔记.md",
+    "男生如何穿搭和造型.md",
+    "Pasted image 20251023143748.png",
+    "Pasted image 20251023143644.png",
+    "Pasted image 20251023143605.png",
+    "Pasted image 20251023143340.png",
+    "Pasted image 20251023143210.png",
+    "Pasted image 20251023143104.png",
+    "Pasted image 20251023142901.png",
+    "Pasted image 20251023142726.png",
+    "Pasted image 20251023142507.png",
+    "Pasted image 20251023142033.png",
+    "把妹百科全书.md",
     "Git LFS 插件使用笔记.md",
     "未命名.md",
-    "国内科目一考试准备笔记.md",
     "健身增肌进步记录.md",
-    "附件/Large Files/《谜男方法》.pdf",
     "《中国男性究极进化手册》读书笔记.md",
     "附件/中国男性究极进化手册 第三版无密码.pdf",
     "附件/《谜男方法》.pdf",
     "《女人其实都想要》读书笔记.md",
     "附件/《女人其实都想要》.7z",
-    "screen shoot_0.png",
-    "screen shoot_0 1.png",
-    "screen shoot_1.png",
-    "screen shoot_1 1.png",
-    "screen shoot_2.png",
-    "screen shoot_2 1.png",
     "Untitled 2.md",
     "Untitled 1.md",
     "永久笔记(permanent note)/程序员专业知识学习/Git学习笔记.md",
@@ -273,10 +302,6 @@
     "瞬时笔记(fleetting note)/Python Pandas库学习笔记及示例代码合集.md",
     "永久笔记(permanent note)/程序员专业知识学习/PyCharm学习笔记.md",
     "瞬时笔记(fleetting note)/Format Output in Python.md",
-    "Pasted image 20251022064841.png",
-    "Pasted image 20251022064621.png",
-    "Pasted image 20251022064416.png",
-    "Pasted image 20251022064208.png",
     "人体必需摄入营养物质归纳.md",
     "《体贴X爱秘技：加藤鹰的终极术》读书笔记.md",
     "《冷读术》读书笔记.md",
@@ -288,7 +313,6 @@
     "永久笔记(permanent note)/【健身笔记】蛋白粉相关笔记.md",
     "附件/《把妹百科全书》.pdf",
     "《搭讪圣经》读书笔记.md",
-    "把妹达人-搭讪圣经.md",
     "附件/32.《搭讪圣经》.pdf",
     "附件/《把妹达人-搭讪圣经》.pdf",
     "附件/85《搭讪圣经》.pdf"
