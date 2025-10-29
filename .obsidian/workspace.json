@@ -4,28 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "766b6bb9fd3e2519",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4e3535f0a8713ff8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "附件/Large Files/《谜男方法》.pdf",
-                "page": 76,
-                "left": -9,
-                "top": 158,
-                "zoom": 1.0050272811502696
-              },
-              "icon": "lucide-file-text",
-              "title": "《谜男方法》"
-            }
-          }
-        ]
-      },
-      {
         "id": "248ff6edddfaffd6",
         "type": "tabs",
         "children": [
@@ -268,8 +246,8 @@
   },
   "active": "1db382f2100c864a",
   "lastOpenFiles": [
-    "附件/Large Files/《谜男方法》.pdf",
     "《迷男方法》读书笔记.md",
+    "附件/Large Files/《谜男方法》.pdf",
     "男生如何穿搭和造型.md",
     "健身增肌进步记录.md",
     "国内科目一考试准备笔记.md",
