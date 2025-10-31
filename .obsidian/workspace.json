@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a87ac9d3a16a238c",
+        "id": "3023992776a83736",
         "type": "tabs",
         "children": [
           {
-            "id": "06b33052d6808431",
+            "id": "6b6cb4fc59d855b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "《迷男方法》读书笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "《迷男方法》读书笔记"
+            }
+          },
+          {
+            "id": "bc8fb08608575202",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +55,8 @@
               "title": "健身增肌进步记录"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,17 +271,17 @@
   },
   "active": "1db382f2100c864a",
   "lastOpenFiles": [
+    "《迷男方法》读书笔记.md",
+    "兴欣·欣苑小区选房情况.md",
+    "附件/Large Files/《谜男方法》.pdf",
+    "健身增肌进步记录.md",
     "装修笔记大纲.md",
     "电竞房改造笔记.md",
-    "兴欣·欣苑小区选房情况.md",
     "附件/兴欣·欣苑小区区型.png",
     "附件/兴欣·欣苑小区区型.png.crswap",
     "Pasted image 20251030163819.png",
     "Excalidraw/草稿纸.excalidraw.md",
-    "《迷男方法》读书笔记.md",
-    "附件/Large Files/《谜男方法》.pdf",
     "男生如何穿搭和造型.md",
-    "健身增肌进步记录.md",
     "国内科目一考试准备笔记.md",
     "Pasted image 20251023143748.png",
     "Pasted image 20251023143644.png",
@@ -288,7 +313,6 @@
     "如何提高自己“闲聊”的能力？.md",
     "读书数据库.base",
     "附件/33.《冷读术》.pdf",
-    "男生如何认识自己的颜值？.md",
     "附件/《把妹百科全书》.pdf",
     "附件/32.《搭讪圣经》.pdf",
     "附件/《把妹达人-搭讪圣经》.pdf"
