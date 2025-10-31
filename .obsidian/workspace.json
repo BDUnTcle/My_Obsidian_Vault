@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d02f8f910068ec48",
+        "id": "a87ac9d3a16a238c",
         "type": "tabs",
         "children": [
           {
-            "id": "5c8c360c72d2a885",
+            "id": "06b33052d6808431",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "健身增肌进步记录.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "健身增肌进步记录"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag: #git ",
+                "query": "tag:#家居装修  ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,6 +246,13 @@
   },
   "active": "1db382f2100c864a",
   "lastOpenFiles": [
+    "装修笔记大纲.md",
+    "电竞房改造笔记.md",
+    "兴欣·欣苑小区选房情况.md",
+    "附件/兴欣·欣苑小区区型.png",
+    "附件/兴欣·欣苑小区区型.png.crswap",
+    "Pasted image 20251030163819.png",
+    "Excalidraw/草稿纸.excalidraw.md",
     "《迷男方法》读书笔记.md",
     "附件/Large Files/《谜男方法》.pdf",
     "男生如何穿搭和造型.md",
@@ -245,8 +266,6 @@
     "Pasted image 20251023143104.png",
     "Pasted image 20251023142901.png",
     "Pasted image 20251023142726.png",
-    "Pasted image 20251023142507.png",
-    "Pasted image 20251023142033.png",
     "把妹百科全书.md",
     "Git LFS 插件使用笔记.md",
     "未命名.md",
@@ -270,12 +289,8 @@
     "读书数据库.base",
     "附件/33.《冷读术》.pdf",
     "男生如何认识自己的颜值？.md",
-    "打造自己的完美社交展示面.md",
-    "永久笔记(permanent note)/【健身笔记】蛋白粉相关笔记.md",
     "附件/《把妹百科全书》.pdf",
-    "《搭讪圣经》读书笔记.md",
     "附件/32.《搭讪圣经》.pdf",
-    "附件/《把妹达人-搭讪圣经》.pdf",
-    "附件/85《搭讪圣经》.pdf"
+    "附件/《把妹达人-搭讪圣经》.pdf"
   ]
 }
