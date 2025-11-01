@@ -1,5 +1,5 @@
 #英语/TOEFL #英语/TOEFL-Writing
-[[练习|练习]]
+[[语言学习(Language Learning)/TOEFL/Writing/练习|练习]]
 # 总介绍
 
 - Integral Writing
