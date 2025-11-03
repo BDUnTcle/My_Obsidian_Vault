@@ -270,13 +270,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "男生如何打理发型.md",
+                "file": "《非暴力沟通》读书笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "男生如何打理发型 的大纲"
+              "title": "《非暴力沟通》读书笔记 的大纲"
             }
           },
           {
@@ -310,7 +310,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -339,7 +339,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "4d98877811517213",
+  "active": "e6c1f47213296755",
   "lastOpenFiles": [
     "男生如何打理发型.md",
     "男生如何穿搭.md",
