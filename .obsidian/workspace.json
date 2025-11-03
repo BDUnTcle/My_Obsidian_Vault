@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e0dd637e3819127",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "健身增肌进步记录.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "健身增肌进步记录"
-            }
-          },
-          {
-            "id": "0b3bd3e327bf288f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SLS混音练习.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SLS混音练习"
-            }
-          },
-          {
             "id": "ab0245a6984d5017",
             "type": "leaf",
             "state": {
@@ -80,7 +32,7 @@
             }
           },
           {
-            "id": "f02df685c62724b2",
+            "id": "7ee00c6666888abf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -109,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "男生如何穿搭和造型.md",
+                "file": "男生如何穿搭.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +76,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "男生如何穿搭和造型"
+              "title": "男生如何穿搭"
+            }
+          },
+          {
+            "id": "16dd6f41c0604c96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "男生如何打理发型.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "男生如何打理发型"
+            }
+          },
+          {
+            "id": "4d98877811517213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "《非暴力沟通》读书笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "《非暴力沟通》读书笔记"
             }
           }
         ],
@@ -270,13 +270,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "附件/Large Files/《谜男方法》.pdf",
+                "file": "男生如何打理发型.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "《谜男方法》 的大纲"
+              "title": "男生如何打理发型 的大纲"
             }
           },
           {
@@ -314,8 +314,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
-    "collapsed": true
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -340,14 +339,21 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "1db382f2100c864a",
+  "active": "4d98877811517213",
   "lastOpenFiles": [
-    "女性情趣用品使用体验分享.md",
+    "男生如何打理发型.md",
+    "男生如何穿搭.md",
     "《迷男方法》读书笔记.md",
-    "附件/Large Files/《谜男方法》.pdf",
     "搭讪惯例库.md",
-    "SLS混音练习.md",
+    "国内科目一考试准备笔记.md",
     "健身增肌进步记录.md",
+    "Pasted image 20251103083037.png",
+    "Pasted image 20251103083018.png",
+    "Pasted image 20251103082551.png",
+    "未命名.md",
+    "女性情趣用品使用体验分享.md",
+    "附件/Large Files/《谜男方法》.pdf",
+    "SLS混音练习.md",
     "Git LFS 插件使用笔记.md",
     "Internal link.md",
     "附件/Pasted image 20241021180949.png",
@@ -357,9 +363,6 @@
     "附件/screen shoot_2 1.png",
     "附件/screen shoot_2.png",
     "附件/screen shoot_1 1.png",
-    "附件/screen shoot_1.png",
-    "附件/screen shoot_0 1.png",
-    "附件/screen shoot_0.png",
     "Assignment 2.md",
     "{CS200W}-.md",
     "《非暴力沟通》读书笔记.md",
@@ -369,8 +372,6 @@
     "电竞房改造笔记.md",
     "附件/兴欣·欣苑小区区型.png.crswap",
     "Excalidraw/草稿纸.excalidraw.md",
-    "男生如何穿搭和造型.md",
-    "国内科目一考试准备笔记.md",
     "把妹百科全书.md",
     "《中国男性究极进化手册》读书笔记.md",
     "附件/中国男性究极进化手册 第三版无密码.pdf",
@@ -381,9 +382,6 @@
     "Untitled 1.md",
     "永久笔记(permanent note)/程序员专业知识学习/Git学习笔记.md",
     "永久笔记(permanent note)/程序员专业知识学习/Python基础学习笔记.md",
-    "永久笔记(permanent note)/程序员专业知识学习/Python下的Machine Learning学习笔记.md",
-    "瞬时笔记(fleetting note)/Python Pandas库学习笔记及示例代码合集.md",
-    "永久笔记(permanent note)/程序员专业知识学习/PyCharm学习笔记.md",
     "附件/33.《冷读术》.pdf",
     "附件/《把妹百科全书》.pdf",
     "附件/32.《搭讪圣经》.pdf",
