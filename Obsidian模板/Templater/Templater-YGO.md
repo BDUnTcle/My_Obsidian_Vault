@@ -1,6 +1,6 @@
 ---
-create date: 2024-09-11
-modification date: 
+create date: <% tp.file.creation_date() %>
+modification date:
 tags:
   - 游戏王
   - 游戏王/MD

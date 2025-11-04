@@ -1,7 +1,7 @@
 ---
-create date: 2024-09-11
-modification date: 
+creation date: <% tp.file.creation_date() %>
 tags:
-  - "#fleeting"
+  - fleeting
 type: NomalNotes
 ---
+<%* await tp.file.move("/瞬时笔记(fleetting note)/"+tp.file.title) %>

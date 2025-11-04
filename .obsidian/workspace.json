@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7deac61e6f9c56a5",
+        "id": "5b7c74b40d7ee231",
         "type": "tabs",
         "children": [
           {
-            "id": "ab0245a6984d5017",
+            "id": "77466e5805741b2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "《迷男方法》读书笔记.md",
+                "file": "Obsidian模板/Templater/Templater-Fleeting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "《迷男方法》读书笔记"
+              "title": "Templater-Fleeting"
             }
           },
           {
-            "id": "7ee00c6666888abf",
+            "id": "2566517d8017a83a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "搭讪惯例库.md",
+                "file": "Obsidian模板/Templater/Templater-YGO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,83 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "搭讪惯例库"
-            }
-          },
-          {
-            "id": "a5d93c7b08668ba0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "男生如何穿搭.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "男生如何穿搭"
-            }
-          },
-          {
-            "id": "16dd6f41c0604c96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "男生如何打理发型.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "男生如何打理发型"
-            }
-          },
-          {
-            "id": "4d98877811517213",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "《非暴力沟通》读书笔记.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "《非暴力沟通》读书笔记"
+              "title": "Templater-YGO"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "4ceca8134c659c36",
@@ -270,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "《非暴力沟通》读书笔记.md",
+                "file": "Obsidian模板/Templater/Templater-YGO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "《非暴力沟通》读书笔记 的大纲"
+              "title": "Templater-YGO 的大纲"
             }
           },
           {
@@ -310,7 +237,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -339,23 +266,38 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "e6c1f47213296755",
+  "active": "1db382f2100c864a",
   "lastOpenFiles": [
+    "Obsidian模板/Templater/Templater-Weekly Review.md",
+    "Obsidian模板/Templater/Templater-Monthly Plan.md",
+    "Obsidian模板/Templater/Templater-LearningNotes.md",
+    "Obsidian模板/Templater/Templater-DailyNote.md",
+    "Obsidian模板/Templater/Templater-ClassNote.md",
+    "Obsidian模板/Templater/Templater-Fleeting.md",
+    "永久笔记(permanent note)/Archived Notes/Obsidian中Templater的学习笔记.md",
+    "瞬时笔记(fleetting note)/fleetting test.md",
+    "我的日记/2024-09-11日记.md",
+    "Obsidian模板/Templater/Templater-YGO.md",
+    "《非暴力沟通》读书笔记.md",
     "男生如何打理发型.md",
     "男生如何穿搭.md",
-    "《迷男方法》读书笔记.md",
     "搭讪惯例库.md",
-    "国内科目一考试准备笔记.md",
-    "健身增肌进步记录.md",
+    "2025-09 月度计划.md",
+    "《中国男性究极进化手册》读书笔记.md",
+    "《置身事内：中国政府与经济发展》读书笔记.md",
+    "《性学观止》读书笔记.md",
+    "《我的身体我的心》SM实用教程 读书笔记.md",
+    "《体贴X爱秘技：加藤鹰的终极术》读书笔记.md",
+    "《女人其实都想要》读书笔记.md",
+    "《迷男方法》读书笔记.md",
+    "《两性心理解密——女人篇（2004）》读书笔记.md",
+    "《两性心理解密——男人篇（2004）》读书笔记.md",
+    "《冷读术》读书笔记.md",
+    "《极致爱抚2 取悅女性器的250種方法》读书笔记.md",
     "Pasted image 20251103083037.png",
     "Pasted image 20251103083018.png",
     "Pasted image 20251103082551.png",
-    "未命名.md",
-    "女性情趣用品使用体验分享.md",
     "附件/Large Files/《谜男方法》.pdf",
-    "SLS混音练习.md",
-    "Git LFS 插件使用笔记.md",
-    "Internal link.md",
     "附件/Pasted image 20241021180949.png",
     "附件/Pasted image 20250901103635.png",
     "附件/Pasted image 20251022063105.png",
@@ -363,25 +305,11 @@
     "附件/screen shoot_2 1.png",
     "附件/screen shoot_2.png",
     "附件/screen shoot_1 1.png",
-    "Assignment 2.md",
-    "{CS200W}-.md",
-    "《非暴力沟通》读书笔记.md",
     "读书数据库.base",
-    "兴欣·欣苑小区选房情况.md",
-    "装修笔记大纲.md",
-    "电竞房改造笔记.md",
     "附件/兴欣·欣苑小区区型.png.crswap",
-    "Excalidraw/草稿纸.excalidraw.md",
-    "把妹百科全书.md",
-    "《中国男性究极进化手册》读书笔记.md",
     "附件/中国男性究极进化手册 第三版无密码.pdf",
     "附件/《谜男方法》.pdf",
-    "《女人其实都想要》读书笔记.md",
     "附件/《女人其实都想要》.7z",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "永久笔记(permanent note)/程序员专业知识学习/Git学习笔记.md",
-    "永久笔记(permanent note)/程序员专业知识学习/Python基础学习笔记.md",
     "附件/33.《冷读术》.pdf",
     "附件/《把妹百科全书》.pdf",
     "附件/32.《搭讪圣经》.pdf",

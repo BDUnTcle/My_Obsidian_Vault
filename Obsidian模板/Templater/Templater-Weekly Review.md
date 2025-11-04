@@ -1,6 +1,6 @@
 ---
-creation date: 2024-09-11
-modification date: 
+creation date: <% tp.file.creation_date() %>
+modification date:
 tags:
   - "#WeeklyReview"
 type: WeeklyReview

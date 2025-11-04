@@ -1,8 +1,8 @@
 ---
-create date: 2024-09-11
+create date: <% tp.file.creation_date() %>
 tags:
   - review
-modification date: 
+modification date:
 type: LearningNote
 ---
 

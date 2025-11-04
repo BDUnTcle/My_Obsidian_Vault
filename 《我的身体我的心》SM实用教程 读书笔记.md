@@ -4,6 +4,7 @@ aliases:
 tags:
   - 读书笔记
   - 两性知识
+  - fleeting
 ---
 [[《我的身体我的心》SM实用教程.pdf]]
 # 首先, 正确地认识 SM
