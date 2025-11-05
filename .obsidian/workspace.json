@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b7c74b40d7ee231",
+        "id": "4525fe42982dd32a",
         "type": "tabs",
         "children": [
           {
-            "id": "77466e5805741b2c",
+            "id": "c44e3685bda13de9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian模板/Templater/Templater-Fleeting.md",
+                "file": "男生如何打理发型.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Templater-Fleeting"
+              "title": "男生如何打理发型"
             }
           },
           {
-            "id": "2566517d8017a83a",
+            "id": "3a225431c640bce2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian模板/Templater/Templater-YGO.md",
+                "file": "健身增肌进步记录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Templater-YGO"
+              "title": "健身增肌进步记录"
             }
           }
         ],
@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "4ceca8134c659c36",
@@ -197,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian模板/Templater/Templater-YGO.md",
+                "file": "男生如何打理发型.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Templater-YGO 的大纲"
+              "title": "男生如何打理发型 的大纲"
             }
           },
           {
@@ -217,16 +218,6 @@
             }
           },
           {
-            "id": "1db382f2100c864a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "笔记复习序列"
-            }
-          },
-          {
             "id": "09db88c718b7c9a5",
             "type": "leaf",
             "state": {
@@ -235,13 +226,24 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "02f404f523f7f8ec",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 366.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,20 +268,20 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "1db382f2100c864a",
+  "active": "02f404f523f7f8ec",
   "lastOpenFiles": [
+    "男生如何打理发型.md",
+    "Obsidian模板/Templater/Templater-Fleeting.md",
+    "Obsidian模板/Templater/Templater-YGO.md",
     "Obsidian模板/Templater/Templater-Weekly Review.md",
     "Obsidian模板/Templater/Templater-Monthly Plan.md",
     "Obsidian模板/Templater/Templater-LearningNotes.md",
     "Obsidian模板/Templater/Templater-DailyNote.md",
     "Obsidian模板/Templater/Templater-ClassNote.md",
-    "Obsidian模板/Templater/Templater-Fleeting.md",
     "永久笔记(permanent note)/Archived Notes/Obsidian中Templater的学习笔记.md",
     "瞬时笔记(fleetting note)/fleetting test.md",
     "我的日记/2024-09-11日记.md",
-    "Obsidian模板/Templater/Templater-YGO.md",
     "《非暴力沟通》读书笔记.md",
-    "男生如何打理发型.md",
     "男生如何穿搭.md",
     "搭讪惯例库.md",
     "2025-09 月度计划.md",
