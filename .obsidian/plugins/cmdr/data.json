@@ -17,12 +17,6 @@
       "icon": "calendar",
       "name": "Periodic Notes: Open monthly note",
       "mode": "3b8a97f1faa23670"
-    },
-    {
-      "id": "bookmarks:open",
-      "icon": "lucide-bookmark",
-      "name": "Bookmarks: Show bookmarks",
-      "mode": "any"
     }
   ],
   "rightRibbon": [],

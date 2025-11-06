@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "健身增肌进步记录.md",
+                "file": "《迷男方法》读书笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "健身增肌进步记录"
+              "title": "《迷男方法》读书笔记"
+            }
+          },
+          {
+            "id": "de64d6745b74beab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "《非暴力沟通》读书笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "《非暴力沟通》读书笔记"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +115,18 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "recent-files"
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "90f4402771be68f0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ]
@@ -139,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "把妹百科全书.md",
+                "file": "健身增肌进步记录.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,22 +184,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "把妹百科全书 的反向链接列表"
-            }
-          },
-          {
-            "id": "4a2e5677dfeb34c6",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
+              "title": "健身增肌进步记录 的反向链接列表"
             }
           },
           {
@@ -173,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "男生如何打理发型.md",
+                "file": "健身增肌进步记录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "男生如何打理发型 的大纲"
+              "title": "健身增肌进步记录 的大纲"
             }
           },
           {
@@ -193,16 +213,6 @@
             }
           },
           {
-            "id": "09db88c718b7c9a5",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
             "id": "02f404f523f7f8ec",
             "type": "leaf",
             "state": {
@@ -211,13 +221,29 @@
               "icon": "SpacedRepIcon",
               "title": "笔记复习序列"
             }
+          },
+          {
+            "id": "98666220e9763515",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 445.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,10 +255,8 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "templater-obsidian:Templater": false,
-      "cmdr:Bookmarks: Show bookmarks": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
@@ -242,9 +266,19 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "02f404f523f7f8ec",
+  "active": "de64d6745b74beab",
   "lastOpenFiles": [
+    "《迷男方法》读书笔记.md",
     "健身增肌进步记录.md",
+    "附件/Large Files/《谜男方法》.pdf",
+    "《中国男性究极进化手册》读书笔记.md",
+    "【健身笔记】健身解剖手册.md",
+    "《非暴力沟通》读书笔记.md",
+    "《搭讪圣经》读书笔记.md",
+    "2025-09 月度计划.md",
+    "男生如何穿搭.md",
+    "街霸6博弈论.md",
+    "鞋柜，冰箱除臭，除异味.md",
     "男生如何打理发型.md",
     "Obsidian模板/Templater/Templater-Fleeting.md",
     "Obsidian模板/Templater/Templater-YGO.md",
@@ -256,24 +290,13 @@
     "永久笔记(permanent note)/Archived Notes/Obsidian中Templater的学习笔记.md",
     "瞬时笔记(fleetting note)/fleetting test.md",
     "我的日记/2024-09-11日记.md",
-    "《非暴力沟通》读书笔记.md",
-    "男生如何穿搭.md",
     "搭讪惯例库.md",
-    "2025-09 月度计划.md",
-    "《中国男性究极进化手册》读书笔记.md",
     "《置身事内：中国政府与经济发展》读书笔记.md",
     "《性学观止》读书笔记.md",
     "《我的身体我的心》SM实用教程 读书笔记.md",
-    "《体贴X爱秘技：加藤鹰的终极术》读书笔记.md",
-    "《女人其实都想要》读书笔记.md",
-    "《迷男方法》读书笔记.md",
-    "《两性心理解密——女人篇（2004）》读书笔记.md",
-    "《两性心理解密——男人篇（2004）》读书笔记.md",
-    "《冷读术》读书笔记.md",
     "Pasted image 20251103083037.png",
     "Pasted image 20251103083018.png",
     "Pasted image 20251103082551.png",
-    "附件/Large Files/《谜男方法》.pdf",
     "附件/Pasted image 20241021180949.png",
     "附件/Pasted image 20250901103635.png",
     "附件/Pasted image 20251022063105.png",
