@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "《非暴力沟通》读书笔记"
             }
+          },
+          {
+            "id": "a0f349e115d9da72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "瞬时笔记(fleetting note)/金铲铲一图流.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "金铲铲一图流"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -290,13 +314,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "de64d6745b74beab",
+  "active": "02f404f523f7f8ec",
   "lastOpenFiles": [
+    "Pasted image 20251109214100.png",
+    "Pasted image 20251109213545.png",
+    "健身增肌进步记录.md",
+    "Untitled.md",
+    "瞬时笔记(fleetting note)/金铲铲一图流.md",
     "《非暴力沟通》读书笔记.md",
+    "搭讪惯例库.md",
     "《迷男方法》读书笔记.md",
     "附件/Large Files/《谜男方法》.pdf",
-    "搭讪惯例库.md",
-    "健身增肌进步记录.md",
     "《中国男性究极进化手册》读书笔记.md",
     "【健身笔记】健身解剖手册.md",
     "《搭讪圣经》读书笔记.md",
@@ -316,8 +344,6 @@
     "瞬时笔记(fleetting note)/fleetting test.md",
     "我的日记/2024-09-11日记.md",
     "《置身事内：中国政府与经济发展》读书笔记.md",
-    "《性学观止》读书笔记.md",
-    "《我的身体我的心》SM实用教程 读书笔记.md",
     "Pasted image 20251103083037.png",
     "Pasted image 20251103083018.png",
     "Pasted image 20251103082551.png",
@@ -327,7 +353,6 @@
     "附件/Pasted image 20251023142901.png",
     "附件/screen shoot_2 1.png",
     "附件/screen shoot_2.png",
-    "附件/screen shoot_1 1.png",
     "读书数据库.base",
     "附件/兴欣·欣苑小区区型.png.crswap",
     "附件/中国男性究极进化手册 第三版无密码.pdf",
