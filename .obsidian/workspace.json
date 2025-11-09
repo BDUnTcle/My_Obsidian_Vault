@@ -4,28 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "e4cca9f31341a422",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "80f9594c6965247b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "附件/Large Files/《谜男方法》.pdf",
-                "page": 102,
-                "left": -9,
-                "top": 709,
-                "zoom": 1.0050272811502694
-              },
-              "icon": "lucide-file-text",
-              "title": "《谜男方法》"
-            }
-          }
-        ]
-      },
-      {
         "id": "4525fe42982dd32a",
         "type": "tabs",
         "children": [
@@ -101,7 +79,8 @@
               "title": "《非暴力沟通》读书笔记"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -283,7 +262,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -311,12 +290,12 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "c44e3685bda13de9",
+  "active": "de64d6745b74beab",
   "lastOpenFiles": [
-    "附件/Large Files/《谜男方法》.pdf",
-    "《迷男方法》读书笔记.md",
-    "搭讪惯例库.md",
     "《非暴力沟通》读书笔记.md",
+    "《迷男方法》读书笔记.md",
+    "附件/Large Files/《谜男方法》.pdf",
+    "搭讪惯例库.md",
     "健身增肌进步记录.md",
     "《中国男性究极进化手册》读书笔记.md",
     "【健身笔记】健身解剖手册.md",
