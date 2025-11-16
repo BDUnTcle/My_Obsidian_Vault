@@ -102,9 +102,19 @@
               "icon": "lucide-file",
               "title": "健身增肌进步记录"
             }
+          },
+          {
+            "id": "63c3d4e3da2b2e9b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -314,10 +324,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "02f404f523f7f8ec",
+  "active": "023c23fab468ab25",
   "lastOpenFiles": [
-    "《非暴力沟通》读书笔记.md",
     "健身增肌进步记录.md",
+    "《非暴力沟通》读书笔记.md",
     "瞬时笔记(fleetting note)/金铲铲一图流.md",
     "Pasted image 20251110201727.png",
     "Pasted image 20251110055601.png",
