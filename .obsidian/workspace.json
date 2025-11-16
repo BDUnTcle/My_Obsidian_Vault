@@ -102,21 +102,9 @@
               "icon": "lucide-file",
               "title": "健身增肌进步记录"
             }
-          },
-          {
-            "id": "e7e2d27cf7bb7fb8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.3"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
