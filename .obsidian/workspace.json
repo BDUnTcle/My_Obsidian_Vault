@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c44e3685bda13de9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "《迷男方法》读书笔记.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "《迷男方法》读书笔记"
-            }
-          },
-          {
             "id": "89f90d1706401aef",
             "type": "leaf",
             "state": {
@@ -128,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
