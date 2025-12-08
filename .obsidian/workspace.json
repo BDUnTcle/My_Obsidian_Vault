@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37fe9de4364e191a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "瞬时笔记(fleetting note)/金铲铲一图流.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "金铲铲一图流"
-            }
-          },
-          {
             "id": "cc10f8142bc4409b",
             "type": "leaf",
             "state": {
@@ -268,11 +244,11 @@
   },
   "active": "02f404f523f7f8ec",
   "lastOpenFiles": [
+    "瞬时笔记(fleetting note)/金铲铲一图流.md",
     "Pasted image 20251205144733.png",
     "Pasted image 20251202221110.png",
     "Pasted image 20251201180316.png",
     "健身增肌进步记录.md",
-    "瞬时笔记(fleetting note)/金铲铲一图流.md",
     "Pasted image 20251128172838.png",
     "Pasted image 20251127183901.png",
     "Pasted image 20251127180043.png",
@@ -284,7 +260,6 @@
     "Pasted image 20251110201727.png",
     "Pasted image 20251110055601.png",
     "Pasted image 20251110055511.png",
-    "Pasted image 20251110055444.png",
     "搭讪惯例库.md",
     "《迷男方法》读书笔记.md",
     "附件/Large Files/《谜男方法》.pdf",
