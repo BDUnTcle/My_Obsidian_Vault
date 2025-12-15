@@ -55,7 +55,8 @@
               "title": "金铲铲一图流"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -266,10 +267,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "cc10f8142bc4409b",
+  "active": "02f404f523f7f8ec",
   "lastOpenFiles": [
-    "瞬时笔记(fleetting note)/金铲铲一图流.md",
     "健身增肌进步记录.md",
+    "瞬时笔记(fleetting note)/金铲铲一图流.md",
     "Pasted image 20251205144733.png",
     "Pasted image 20251202221110.png",
     "Pasted image 20251201180316.png",
