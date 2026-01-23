@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "永久笔记(permanent note)/街霸学习笔记.md",
+                "file": "永久笔记(permanent note)/街霸6-本田学习笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "街霸学习笔记"
-            }
-          },
-          {
-            "id": "4543816c96c54a0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "街霸6-维嘉学习笔记.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "街霸6-维嘉学习笔记"
+              "title": "街霸6-本田学习笔记"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "街霸6-维嘉学习笔记.md",
+                "file": "永久笔记(permanent note)/街霸6-本田学习笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "街霸6-维嘉学习笔记 的反向链接列表"
+              "title": "街霸6-本田学习笔记 的反向链接列表"
             }
           },
           {
@@ -243,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 445.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,7 +245,9 @@
   "active": "02f404f523f7f8ec",
   "lastOpenFiles": [
     "永久笔记(permanent note)/街霸学习笔记.md",
+    "永久笔记(permanent note)/街霸6-本田学习笔记.md",
     "街霸6-维嘉学习笔记.md",
+    "街霸6-本田学习笔记.md",
     "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
     "瞬时笔记(fleetting note)/金铲铲一图流.md",
     "Pasted image 20251231145416.png",
@@ -303,8 +281,6 @@
     "Obsidian模板/Templater/Templater-Monthly Plan.md",
     "Obsidian模板/Templater/Templater-LearningNotes.md",
     "Obsidian模板/Templater/Templater-DailyNote.md",
-    "Obsidian模板/Templater/Templater-ClassNote.md",
-    "永久笔记(permanent note)/Archived Notes/Obsidian中Templater的学习笔记.md",
     "读书数据库.base",
     "附件/兴欣·欣苑小区区型.png.crswap",
     "附件/中国男性究极进化手册 第三版无密码.pdf",
