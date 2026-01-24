@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d9c415e50ea4d6f2",
+        "id": "e6d32578efcf4837",
         "type": "tabs",
         "children": [
           {
-            "id": "3c9902cf06d8f8e7",
+            "id": "132bcd428c74cf57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "永久笔记(permanent note)/街霸6-本田学习笔记.md",
+                "file": "黑夜君临大学习.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "街霸6-本田学习笔记"
+              "title": "黑夜君临大学习"
             }
           }
         ]
@@ -244,8 +244,10 @@
   },
   "active": "02f404f523f7f8ec",
   "lastOpenFiles": [
-    "永久笔记(permanent note)/街霸学习笔记.md",
+    "Pasted image 20260123215243.png",
+    "黑夜君临大学习.md",
     "永久笔记(permanent note)/街霸6-本田学习笔记.md",
+    "永久笔记(permanent note)/街霸学习笔记.md",
     "街霸6-维嘉学习笔记.md",
     "街霸6-本田学习笔记.md",
     "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
@@ -279,8 +281,6 @@
     "Obsidian模板/Templater/Templater-YGO.md",
     "Obsidian模板/Templater/Templater-Weekly Review.md",
     "Obsidian模板/Templater/Templater-Monthly Plan.md",
-    "Obsidian模板/Templater/Templater-LearningNotes.md",
-    "Obsidian模板/Templater/Templater-DailyNote.md",
     "读书数据库.base",
     "附件/兴欣·欣苑小区区型.png.crswap",
     "附件/中国男性究极进化手册 第三版无密码.pdf",
