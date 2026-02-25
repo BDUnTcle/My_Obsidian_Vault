@@ -21,14 +21,7 @@
   ],
   "rightRibbon": [],
   "titleBar": [],
-  "statusBar": [
-    {
-      "id": "workspaces:load",
-      "icon": "aperture",
-      "name": "Workspaces: Load workspace layout",
-      "mode": "any"
-    }
-  ],
+  "statusBar": [],
   "pageHeader": [
     {
       "id": "highlightr-plugin:Red",
