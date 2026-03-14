@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "黑夜君临大学习"
             }
+          },
+          {
+            "id": "f48e0658da073408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "街霸6-朱莉学习笔记"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,8 +282,8 @@
   },
   "active": "02f404f523f7f8ec",
   "lastOpenFiles": [
-    "Pasted image 20260216121633.png",
     "黑夜君临大学习.md",
+    "Pasted image 20260216121633.png",
     "Pasted image 20260216121559.png",
     "Pasted image 20260216121541.png",
     "Pasted image 20260216121524.png",
