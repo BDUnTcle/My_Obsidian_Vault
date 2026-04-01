@@ -8,65 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "132bcd428c74cf57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "黑夜君临大学习.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "黑夜君临大学习"
-            }
-          },
-          {
-            "id": "f48e0658da073408",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "街霸6-朱莉学习笔记"
-            }
-          },
-          {
             "id": "3456f8d100f305ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "金庸群侠传攻略合集.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "金庸群侠传攻略合集"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "街霸6-维嘉学习笔记.md",
+                "file": "金庸群侠传攻略合集.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "街霸6-维嘉学习笔记 的大纲"
+              "title": "金庸群侠传攻略合集 的大纲"
             }
           },
           {
@@ -263,17 +228,16 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 445.5,
-    "collapsed": true
+    "width": 445.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "templates:插入模板": false,
-      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -290,8 +254,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "02f404f523f7f8ec",
+  "active": "4d085645242d4c6b",
   "lastOpenFiles": [
+    "金庸群侠传攻略合集.md",
     "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
     "黑夜君临大学习.md",
     "Pasted image 20260216121633.png",
