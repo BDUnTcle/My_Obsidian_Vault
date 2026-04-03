@@ -30,8 +30,81 @@
               "icon": "lucide-file",
               "title": "金庸群侠传攻略合集"
             }
+          },
+          {
+            "id": "b0dacfa361512769",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "瞬时笔记(fleetting note)/神界原罪2攻略合集.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "神界原罪2攻略合集"
+            }
+          },
+          {
+            "id": "71e3e0f2821cf673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "瞬时笔记(fleetting note)/神界原罪2：流派加点.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "神界原罪2：流派加点"
+            }
+          },
+          {
+            "id": "b815dae76944a9bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "瞬时笔记(fleetting note)/神界原罪2：主线流程攻略.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "神界原罪2：主线流程攻略"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,13 +242,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "金庸群侠传攻略合集.md",
+                "file": "瞬时笔记(fleetting note)/神界原罪2：主线流程攻略.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "金庸群侠传攻略合集 的大纲"
+              "title": "神界原罪2：主线流程攻略 的大纲"
             }
           },
           {
@@ -256,6 +329,10 @@
   },
   "active": "02f404f523f7f8ec",
   "lastOpenFiles": [
+    "Pasted image 20260403191721.png",
+    "瞬时笔记(fleetting note)/神界原罪2：流派加点.md",
+    "瞬时笔记(fleetting note)/神界原罪2：主线流程攻略.md",
+    "瞬时笔记(fleetting note)/神界原罪2攻略合集.md",
     "金庸群侠传攻略合集.md",
     "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
     "黑夜君临大学习.md",
@@ -289,10 +366,6 @@
     "街霸6博弈论.md",
     "鞋柜，冰箱除臭，除异味.md",
     "男生如何打理发型.md",
-    "Obsidian模板/Templater/Templater-Fleeting.md",
-    "Obsidian模板/Templater/Templater-YGO.md",
-    "Obsidian模板/Templater/Templater-Weekly Review.md",
-    "Obsidian模板/Templater/Templater-Monthly Plan.md",
     "读书数据库.base",
     "附件/兴欣·欣苑小区区型.png.crswap",
     "附件/中国男性究极进化手册 第三版无密码.pdf",
