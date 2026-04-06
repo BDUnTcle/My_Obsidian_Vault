@@ -35,10 +35,24 @@
             "id": "aa34732b865d3e65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "瞬时笔记(fleetting note)/《逸剑风云决》攻略合集.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "《逸剑风云决》攻略合集"
             }
           }
         ],
@@ -261,12 +275,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "callout-manager:Insert Callout": false,
       "obsidian-spaced-repetition:复习卡片": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open this week": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "aa34732b865d3e65",
   "lastOpenFiles": [
+    "瞬时笔记(fleetting note)/《逸剑风云决》攻略合集.md",
     "瞬时笔记(fleetting note)/神界原罪2：主线流程攻略.md",
     "瞬时笔记(fleetting note)/神界原罪2：流派加点.md",
     "Pasted image 20260403191721.png",
