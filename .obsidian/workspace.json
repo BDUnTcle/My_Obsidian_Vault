@@ -78,9 +78,19 @@
               "icon": "lucide-file",
               "title": "《逸剑风云决》攻略合集"
             }
+          },
+          {
+            "id": "04cdd732e053fdd4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -304,10 +314,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "02f404f523f7f8ec",
+  "active": "04cdd732e053fdd4",
   "lastOpenFiles": [
-    "瞬时笔记(fleetting note)/《逸剑风云决》攻略合集.md",
     "瞬时笔记(fleetting note)/《逸剑风云决》各种结局路线攻略合集.md",
+    "瞬时笔记(fleetting note)/《逸剑风云决》攻略合集.md",
     "瞬时笔记(fleetting note)/神界原罪2：主线流程攻略.md",
     "瞬时笔记(fleetting note)/神界原罪2：流派加点.md",
     "Pasted image 20260403191721.png",
