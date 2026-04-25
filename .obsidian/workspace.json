@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "【健身笔记】蛋白粉相关笔记"
             }
+          },
+          {
+            "id": "d9abb783431f9b23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "永久笔记(permanent note)/饮食计划.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "饮食计划"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -330,6 +354,9 @@
   },
   "active": "02f404f523f7f8ec",
   "lastOpenFiles": [
+    "永久笔记(permanent note)/【健身笔记】减脂完全手册.md",
+    "健身增肌进步记录.md",
+    "永久笔记(permanent note)/【健身笔记】蛋白粉相关笔记.md",
     "瞬时笔记(fleetting note)/《逸剑风云决》各种结局路线攻略合集.md",
     "瞬时笔记(fleetting note)/《逸剑风云决》攻略合集.md",
     "瞬时笔记(fleetting note)/神界原罪2：主线流程攻略.md",
@@ -350,7 +377,6 @@
     "街霸6-本田学习笔记.md",
     "瞬时笔记(fleetting note)/金铲铲一图流.md",
     "Pasted image 20251231145416.png",
-    "健身增肌进步记录.md",
     "Pasted image 20251205144733.png",
     "Pasted image 20251202221110.png",
     "Pasted image 20251201180316.png",
@@ -365,8 +391,6 @@
     "《搭讪圣经》读书笔记.md",
     "2025-09 月度计划.md",
     "男生如何穿搭.md",
-    "街霸6博弈论.md",
-    "鞋柜，冰箱除臭，除异味.md",
     "读书数据库.base",
     "附件/兴欣·欣苑小区区型.png.crswap",
     "附件/中国男性究极进化手册 第三版无密码.pdf",
