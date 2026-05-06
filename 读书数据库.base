@@ -14,6 +14,7 @@ views:
     filters:
       and:
         - file.tags.contains("读书笔记")
+        - file.hasTag("两性知识")
     order: []
     cardSize: 430
     image: note.aliases
