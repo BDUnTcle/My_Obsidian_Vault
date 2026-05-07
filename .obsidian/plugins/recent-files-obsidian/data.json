@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "VSCode插件（个人）",
+      "path": "瞬时笔记(fleetting note)/VSCode插件（个人）.md"
+    },
+    {
+      "basename": "2022-12-05",
+      "path": "我的日记/2022/2022-12-05.md"
+    },
+    {
       "basename": "《性学观止》读书笔记",
       "path": "《性学观止》读书笔记.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "男生如何打理发型",
       "path": "男生如何打理发型.md"
-    },
-    {
-      "basename": "Templater-Fleeting",
-      "path": "Obsidian模板/Templater/Templater-Fleeting.md"
-    },
-    {
-      "basename": "Templater-YGO",
-      "path": "Obsidian模板/Templater/Templater-YGO.md"
     }
   ],
   "omittedPaths": [],
