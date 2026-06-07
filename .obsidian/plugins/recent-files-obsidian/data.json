@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "VSCode插件（个人）",
-      "path": "瞬时笔记(fleetting note)/VSCode插件（个人）.md"
+      "basename": "未命名",
+      "path": "未命名.md"
     },
     {
-      "basename": "2022-12-05",
-      "path": "我的日记/2022/2022-12-05.md"
+      "basename": "饮食计划",
+      "path": "永久笔记(permanent note)/饮食计划.md"
     },
     {
       "basename": "《性学观止》读书笔记",
@@ -19,6 +19,14 @@
     {
       "basename": "读书数据库",
       "path": "读书数据库.base"
+    },
+    {
+      "basename": "VSCode插件（个人）",
+      "path": "瞬时笔记(fleetting note)/VSCode插件（个人）.md"
+    },
+    {
+      "basename": "2022-12-05",
+      "path": "我的日记/2022/2022-12-05.md"
     },
     {
       "basename": "爱抚技巧个人归纳总结笔记",
@@ -87,10 +95,6 @@
     {
       "basename": "[性学观止（插图第 6 版）]. 贺兰特·凯查杜里安. 扫描版. Pdf",
       "path": "[性学观止（插图第 6 版）]. 贺兰特·凯查杜里安. 扫描版. Pdf.md"
-    },
-    {
-      "basename": "饮食计划",
-      "path": "永久笔记(permanent note)/饮食计划.md"
     },
     {
       "basename": "【健身笔记】蛋白粉相关笔记",
@@ -195,10 +199,6 @@
     {
       "basename": "鞋柜，冰箱除臭，除异味",
       "path": "鞋柜，冰箱除臭，除异味.md"
-    },
-    {
-      "basename": "男生如何打理发型",
-      "path": "男生如何打理发型.md"
     }
   ],
   "omittedPaths": [],
