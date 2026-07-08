@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "《性学观止》读书笔记.md",
+                "file": "《体贴X爱秘技：加藤鹰的终极术》读书笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "《性学观止》读书笔记"
+              "title": "《体贴X爱秘技：加藤鹰的终极术》读书笔记"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "小白式飞机杯选购指南（2026年版第三版）"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:两性知识",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "4ceca8134c659c36",
@@ -194,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "《性学观止》读书笔记.md",
+                "file": "《体贴X爱秘技：加藤鹰的终极术》读书笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "《性学观止》读书笔记 的大纲"
+              "title": "《体贴X爱秘技：加藤鹰的终极术》读书笔记 的大纲"
             }
           },
           {
@@ -257,8 +255,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5,
-    "collapsed": true
+    "width": 445.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,12 +279,12 @@
   },
   "active": "02f404f523f7f8ec",
   "lastOpenFiles": [
+    "《性学观止》读书笔记.md",
+    "瞬时笔记(fleetting note)/小白式飞机杯选购指南（2026年版第三版）.md",
     "Pasted image 20260607173329.png",
     "Pasted image 20260607173315.png",
     "永久笔记(permanent note)/饮食计划.md",
-    "瞬时笔记(fleetting note)/小白式飞机杯选购指南（2026年版第三版）.md",
     "未命名.md",
-    "《性学观止》读书笔记.md",
     "附件/Large Files/性学观止(插图第6版)贺兰特·凯查杜里安_扫描版.pdf",
     "读书数据库.base",
     "瞬时笔记(fleetting note)/VSCode插件（个人）.md",
@@ -322,7 +319,6 @@
     "Pasted image 20260123215243.png",
     "Pasted image 20251231145416.png",
     "Pasted image 20251205144733.png",
-    "Pasted image 20251202221110.png",
     "附件/Large Files/《谜男方法》.pdf",
     "附件/兴欣·欣苑小区区型.png.crswap",
     "附件/中国男性究极进化手册 第三版无密码.pdf",
