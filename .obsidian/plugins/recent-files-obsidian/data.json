@@ -9,16 +9,28 @@
       "path": "永久笔记(permanent note)/街霸学习笔记.md"
     },
     {
-      "basename": "街霸6-隆学习笔记",
-      "path": "永久笔记(permanent note)/街霸6-隆学习笔记.md"
+      "basename": "街霸6-拉希德学习笔记",
+      "path": "永久笔记(permanent note)/街霸6-拉希德学习笔记.md"
+    },
+    {
+      "basename": "街霸6-XX学习笔记",
+      "path": "永久笔记(permanent note)/街霸6-XX学习笔记.md"
+    },
+    {
+      "basename": "街霸6-JP学习笔记",
+      "path": "永久笔记(permanent note)/街霸6-JP学习笔记.md"
+    },
+    {
+      "basename": "街霸6每日练习记录",
+      "path": "瞬时笔记(fleetting note)/街霸6每日练习记录.md"
     },
     {
       "basename": "街霸6-布兰卡学习笔记",
       "path": "永久笔记(permanent note)/街霸6-布兰卡学习笔记.md"
     },
     {
-      "basename": "街霸6每日练习记录",
-      "path": "瞬时笔记(fleetting note)/街霸6每日练习记录.md"
+      "basename": "街霸6-隆学习笔记",
+      "path": "永久笔记(permanent note)/街霸6-隆学习笔记.md"
     },
     {
       "basename": "街霸6-本田学习笔记",
@@ -187,18 +199,6 @@
     {
       "basename": "《谜男方法》",
       "path": "附件/Large Files/《谜男方法》.pdf"
-    },
-    {
-      "basename": "《中国男性究极进化手册》读书笔记",
-      "path": "《中国男性究极进化手册》读书笔记.md"
-    },
-    {
-      "basename": "【健身笔记】健身解剖手册",
-      "path": "【健身笔记】健身解剖手册.md"
-    },
-    {
-      "basename": "2025-09 月度计划",
-      "path": "2025-09 月度计划.md"
     }
   ],
   "omittedPaths": [],
