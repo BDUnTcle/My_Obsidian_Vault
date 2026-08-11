@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "永久笔记(permanent note)/街霸学习笔记.md",
+                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,34 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "街霸学习笔记"
+              "title": "街霸6-朱莉学习笔记"
             }
           },
           {
-            "id": "60f550f3c74a8ed3",
+            "id": "d30c48f9b8e62da3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "永久笔记(permanent note)/街霸6-ALEX学习笔记.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "街霸6-ALEX学习笔记"
+              "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "永久笔记(permanent note)/街霸学习笔记.md",
+                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "街霸学习笔记 的反向链接列表"
+              "title": "街霸6-朱莉学习笔记 的反向链接列表"
             }
           },
           {
@@ -278,13 +265,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "9d137988f13ab585",
+  "active": "02f404f523f7f8ec",
   "lastOpenFiles": [
+    "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
+    "永久笔记(permanent note)/街霸学习笔记.md",
     "永久笔记(permanent note)/街霸6-ALEX学习笔记.md",
     "永久笔记(permanent note)/街霸6-XX学习笔记.md",
     "永久笔记(permanent note)/街霸6-JP学习笔记.md",
-    "永久笔记(permanent note)/街霸学习笔记.md",
-    "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
     "瞬时笔记(fleetting note)/街霸6每日练习记录.md",
     "永久笔记(permanent note)/街霸6-拉希德学习笔记.md",
     "永久笔记(permanent note)/街霸6-隆学习笔记.md",
