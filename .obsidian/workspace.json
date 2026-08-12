@@ -32,17 +32,127 @@
             }
           },
           {
+            "id": "8cf3e0a05d0eabca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "永久笔记(permanent note)/街霸学习笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "街霸学习笔记"
+            }
+          },
+          {
+            "id": "5bc6751d5fbbf1fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "永久笔记(permanent note)/街霸6-艾德学习笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "街霸6-艾德学习笔记"
+            }
+          },
+          {
             "id": "d30c48f9b8e62da3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "永久笔记(permanent note)/街霸6-XX学习笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "街霸6-XX学习笔记"
+            }
+          },
+          {
+            "id": "b3373b30f014eac0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "永久笔记(permanent note)/街霸6-艾莲娜学习笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "街霸6-艾莲娜学习笔记"
+            }
+          },
+          {
+            "id": "99807bdae55169a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "永久笔记(permanent note)/街霸6-雅思敏学习笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "街霸6-雅思敏学习笔记"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,12 +257,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "永久笔记(permanent note)/街霸6-ALEX学习笔记.md",
+                "file": "永久笔记(permanent note)/街霸6-艾德学习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "街霸6-ALEX学习笔记 的出链列表"
+              "title": "街霸6-艾德学习笔记 的出链列表"
             }
           },
           {
@@ -161,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
+                "file": "永久笔记(permanent note)/街霸6-艾德学习笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +281,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "街霸6-朱莉学习笔记 的反向链接列表"
+              "title": "街霸6-艾德学习笔记 的反向链接列表"
             }
           },
           {
@@ -267,10 +377,13 @@
   },
   "active": "02f404f523f7f8ec",
   "lastOpenFiles": [
-    "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
+    "永久笔记(permanent note)/街霸6-艾莲娜学习笔记.md",
+    "永久笔记(permanent note)/街霸6-艾德学习笔记.md",
     "永久笔记(permanent note)/街霸学习笔记.md",
-    "永久笔记(permanent note)/街霸6-ALEX学习笔记.md",
+    "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
     "永久笔记(permanent note)/街霸6-XX学习笔记.md",
+    "永久笔记(permanent note)/街霸6-雅思敏学习笔记.md",
+    "永久笔记(permanent note)/街霸6-ALEX学习笔记.md",
     "永久笔记(permanent note)/街霸6-JP学习笔记.md",
     "瞬时笔记(fleetting note)/街霸6每日练习记录.md",
     "永久笔记(permanent note)/街霸6-拉希德学习笔记.md",
@@ -297,9 +410,6 @@
     "《极致爱抚2 取悅女性器的250種方法》读书笔记.md",
     "《非暴力沟通》读书笔记.md",
     "《迷男方法》读书笔记.md",
-    "电脑优化那些事.md",
-    "《极致爱抚1 胸部特集》读书笔记.md",
-    "《两性心理解密——女人篇（2004）》读书笔记.md",
     "Pasted image 20260403191721.png",
     "Pasted image 20260216121633.png",
     "Pasted image 20260216121559.png",
