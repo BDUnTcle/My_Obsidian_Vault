@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "永久笔记(permanent note)/街霸6-艾莲娜学习笔记.md",
+                "file": "永久笔记(permanent note)/街霸6-杰米学习笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "街霸6-艾莲娜学习笔记"
+              "title": "街霸6-杰米学习笔记"
             }
           },
           {
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -398,17 +398,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7fb194e11e458e6",
+  "active": "b3373b30f014eac0",
   "lastOpenFiles": [
-    "永久笔记(permanent note)/街霸6-嘉米学习笔记.md",
-    "永久笔记(permanent note)/街霸6-桑吉亚夫学习笔记.md",
+    "永久笔记(permanent note)/街霸6-雅思敏学习笔记.md",
+    "永久笔记(permanent note)/街霸6-杰米学习笔记.md",
     "永久笔记(permanent note)/街霸学习笔记.md",
     "永久笔记(permanent note)/街霸6-艾莲娜学习笔记.md",
     "永久笔记(permanent note)/街霸6-XX学习笔记 1.md",
     "永久笔记(permanent note)/街霸6-XX学习笔记.md",
+    "永久笔记(permanent note)/街霸6-桑吉亚夫学习笔记.md",
+    "永久笔记(permanent note)/街霸6-嘉米学习笔记.md",
     "永久笔记(permanent note)/街霸6-艾德学习笔记.md",
     "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
-    "永久笔记(permanent note)/街霸6-雅思敏学习笔记.md",
     "永久笔记(permanent note)/街霸6-ALEX学习笔记.md",
     "永久笔记(permanent note)/街霸6-JP学习笔记.md",
     "瞬时笔记(fleetting note)/街霸6每日练习记录.md",
@@ -432,7 +433,6 @@
     "附件/Large Files/《女人其实都想要》.pdf",
     "附件/Large Files/体贴X爱秘技：加藤鹰的终极术.pdf",
     "体贴X爱秘技：加藤鹰的终极术.pdf",
-    "《我的身体我的心》SM实用教程 读书笔记.md",
     "Pasted image 20260403191721.png",
     "Pasted image 20260216121633.png",
     "Pasted image 20260216121559.png",
