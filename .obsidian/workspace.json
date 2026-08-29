@@ -257,7 +257,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 445.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,10 +276,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "callout-manager:Insert Callout": false,
       "obsidian-spaced-repetition:复习卡片": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "1eb7fecc2e17df96",
+  "active": "02f404f523f7f8ec",
   "lastOpenFiles": [
     "永久笔记(permanent note)/街霸学习笔记.md",
     "永久笔记(permanent note)/街霸6-雅思敏学习笔记.md",
