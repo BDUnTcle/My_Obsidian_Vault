@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "110b062dc3dc378c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "永久笔记(permanent note)/街霸6-隆学习笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "街霸6-隆学习笔记"
+            }
+          },
+          {
             "id": "1eb7fecc2e17df96",
             "type": "leaf",
             "state": {
@@ -55,8 +79,7 @@
               "title": "街霸6-朱莉学习笔记"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -280,7 +303,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "02f404f523f7f8ec",
+  "active": "8cf3e0a05d0eabca",
   "lastOpenFiles": [
     "永久笔记(permanent note)/街霸学习笔记.md",
     "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
