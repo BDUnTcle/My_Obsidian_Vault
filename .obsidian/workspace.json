@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "7d93b7beb1a9f1a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "永久笔记(permanent note)/街霸6-肯学习笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "街霸6-肯学习笔记"
+            }
+          },
+          {
             "id": "110b062dc3dc378c",
             "type": "leaf",
             "state": {
@@ -102,8 +126,57 @@
               "icon": "lucide-file",
               "title": "街霸6-XX学习笔记"
             }
+          },
+          {
+            "id": "5836ef67e04ef977",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "永久笔记(permanent note)/街霸6-英格丽德学习笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "街霸6-英格丽德学习笔记"
+            }
+          },
+          {
+            "id": "05da02512afc34ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "永久笔记(permanent note)/街霸6-特瑞学习笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "街霸6-特瑞学习笔记"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -327,21 +400,23 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "8cf3e0a05d0eabca",
+  "active": "02f404f523f7f8ec",
   "lastOpenFiles": [
+    "永久笔记(permanent note)/街霸6-肯学习笔记.md",
+    "永久笔记(permanent note)/街霸6-特瑞学习笔记.md",
+    "永久笔记(permanent note)/街霸6-英格丽德学习笔记.md",
     "永久笔记(permanent note)/街霸6-XX学习笔记.md",
     "永久笔记(permanent note)/街霸学习笔记.md",
+    "永久笔记(permanent note)/街霸6-艾莲娜学习笔记.md",
+    "永久笔记(permanent note)/街霸6-JP学习笔记.md",
     "永久笔记(permanent note)/街霸6-隆学习笔记.md",
     "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
     "永久笔记(permanent note)/街霸6-雅思敏学习笔记.md",
     "永久笔记(permanent note)/街霸6-杰米学习笔记.md",
     "永久笔记(permanent note)/街霸6-嘉米学习笔记.md",
-    "永久笔记(permanent note)/街霸6-艾莲娜学习笔记.md",
-    "永久笔记(permanent note)/街霸6-XX学习笔记 1.md",
     "永久笔记(permanent note)/街霸6-桑吉亚夫学习笔记.md",
     "永久笔记(permanent note)/街霸6-艾德学习笔记.md",
     "永久笔记(permanent note)/街霸6-ALEX学习笔记.md",
-    "永久笔记(permanent note)/街霸6-JP学习笔记.md",
     "瞬时笔记(fleetting note)/街霸6每日练习记录.md",
     "永久笔记(permanent note)/街霸6-拉希德学习笔记.md",
     "永久笔记(permanent note)/街霸6-布兰卡学习笔记.md",
@@ -357,8 +432,6 @@
     "读书数据库.base",
     "瞬时笔记(fleetting note)/VSCode插件（个人）.md",
     "我的日记/2022/2022-12-05.md",
-    "瞬时笔记(fleetting note)/爱抚技巧个人归纳总结笔记.md",
-    "《女人其实都想要》读书笔记.md",
     "附件/Large Files/《女人其实都想要》.pdf",
     "附件/Large Files/体贴X爱秘技：加藤鹰的终极术.pdf",
     "体贴X爱秘技：加藤鹰的终极术.pdf",
