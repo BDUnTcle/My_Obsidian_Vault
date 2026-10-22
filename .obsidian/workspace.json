@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "4ceca8134c659c36",
@@ -279,7 +280,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b0bae428f2f76dee",
+  "active": "dcde24ebfb62ed2a",
   "lastOpenFiles": [
     "《中国男性究极进化手册》读书笔记.md",
     "附件/中国男性究极进化手册 第三版无密码.pdf",
