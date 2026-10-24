@@ -54,21 +54,9 @@
               "icon": "lucide-file",
               "title": "街霸6-朱莉学习笔记"
             }
-          },
-          {
-            "id": "d7ffe6381df8d59a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.14.5"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -292,7 +280,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "dcde24ebfb62ed2a",
+  "active": "1eb7fecc2e17df96",
   "lastOpenFiles": [
     "《中国男性究极进化手册》读书笔记.md",
     "附件/中国男性究极进化手册 第三版无密码.pdf",
