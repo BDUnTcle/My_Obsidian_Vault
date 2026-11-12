@@ -78,9 +78,19 @@
               "icon": "lucide-file",
               "title": "街霸6-XX学习笔记"
             }
+          },
+          {
+            "id": "96bd11894fb40feb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -304,10 +314,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "dcde24ebfb62ed2a",
+  "active": "96bd11894fb40feb",
   "lastOpenFiles": [
-    "永久笔记(permanent note)/街霸6-XX学习笔记.md",
     "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
+    "永久笔记(permanent note)/街霸6-XX学习笔记.md",
     "永久笔记(permanent note)/街霸学习笔记.md",
     "瞬时笔记(fleetting note)/街霸6每日练习记录.md",
     "街霸6博弈论.md",
