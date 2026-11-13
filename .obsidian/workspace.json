@@ -83,10 +83,24 @@
             "id": "96bd11894fb40feb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "永久笔记(permanent note)/饮食计划.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "饮食计划"
             }
           }
         ],
@@ -314,7 +328,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "96bd11894fb40feb",
+  "active": "dcde24ebfb62ed2a",
   "lastOpenFiles": [
     "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
     "永久笔记(permanent note)/街霸6-XX学习笔记.md",
