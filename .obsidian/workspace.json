@@ -276,10 +276,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "callout-manager:Insert Callout": false,
       "obsidian-spaced-repetition:复习卡片": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "1eb7fecc2e17df96",
+  "active": "dcde24ebfb62ed2a",
   "lastOpenFiles": [
     "永久笔记(permanent note)/饮食计划.md",
     "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
