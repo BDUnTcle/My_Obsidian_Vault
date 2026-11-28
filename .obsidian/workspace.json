@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "704cac8fd6129d19",
+            "id": "16b5489bbd604320",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "永久笔记(permanent note)/街霸6-杰米学习笔记.md",
+                "file": "永久笔记(permanent note)/街霸6-隆学习笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "街霸6-杰米学习笔记"
+              "title": "街霸6-隆学习笔记"
             }
           },
           {
-            "id": "4e0f15719aa76b47",
+            "id": "36c4ce80bf2d6d13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
+                "file": "永久笔记(permanent note)/街霸6-XX学习笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "街霸6-朱莉学习笔记"
+              "title": "街霸6-XX学习笔记"
             }
           }
         ],
@@ -304,14 +304,15 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "dcde24ebfb62ed2a",
+  "active": "16b5489bbd604320",
   "lastOpenFiles": [
     "永久笔记(permanent note)/街霸学习笔记.md",
+    "永久笔记(permanent note)/街霸6-隆学习笔记.md",
+    "永久笔记(permanent note)/街霸6-XX学习笔记.md",
+    "永久笔记(permanent note)/街霸6-豪鬼学习笔记.md",
     "永久笔记(permanent note)/街霸6-卢克学习笔记.md",
     "永久笔记(permanent note)/街霸6-杰米学习笔记.md",
     "永久笔记(permanent note)/街霸6-朱莉学习笔记.md",
-    "永久笔记(permanent note)/街霸6-豪鬼学习笔记.md",
-    "永久笔记(permanent note)/街霸6-XX学习笔记.md",
     "永久笔记(permanent note)/街霸6-XX学习笔记 1.md",
     "永久笔记(permanent note)/街霸6-不知火舞学习笔记.md",
     "永久笔记(permanent note)/饮食计划.md",
@@ -319,7 +320,6 @@
     "街霸6博弈论.md",
     "《中国男性究极进化手册》读书笔记.md",
     "附件/中国男性究极进化手册 第三版无密码.pdf",
-    "永久笔记(permanent note)/街霸6-隆学习笔记.md",
     "永久笔记(permanent note)/街霸6-肯学习笔记.md",
     "永久笔记(permanent note)/街霸6-英格丽德学习笔记.md",
     "永久笔记(permanent note)/街霸6-特瑞学习笔记.md",
